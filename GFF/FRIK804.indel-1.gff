@@ -1,0 +1,51 @@
+##gff-version 3
+lcl|Query_62349:1095567-1152684	FIG	CDS	163	1365	.	+	1	ID=fig|6666666.419440.peg.1;Name=Integrase
+lcl|Query_62349:1095567-1152684	FIG	CDS	1552	3369	.	-	1	ID=fig|6666666.419440.peg.2;Name=putative membrane protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	3655	3819	.	+	1	ID=fig|6666666.419440.peg.3;Name=iso-IS1 ORF1
+lcl|Query_62349:1095567-1152684	FIG	CDS	3867	4259	.	+	0	ID=fig|6666666.419440.peg.4;Name=Mobile element protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	5087	5203	.	+	2	ID=fig|6666666.419440.peg.5;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	5422	6855	.	+	1	ID=fig|6666666.419440.peg.6;Name=Uncharacterized protein YfjI
+lcl|Query_62349:1095567-1152684	FIG	CDS	6911	7039	.	+	2	ID=fig|6666666.419440.peg.7;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	7653	7787	.	-	0	ID=fig|6666666.419440.peg.8;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	7811	8374	.	+	2	ID=fig|6666666.419440.peg.9;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	8951	12193	.	-	2	ID=fig|6666666.419440.peg.10;Name=DNA/RNA helicases%2C SNF2 family
+lcl|Query_62349:1095567-1152684	FIG	CDS	12193	13875	.	-	1	ID=fig|6666666.419440.peg.11;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	13872	14612	.	-	0	ID=fig|6666666.419440.peg.12;Name=COG2885: Outer membrane protein and related peptidoglycan-associated (lipo)proteins
+lcl|Query_62349:1095567-1152684	FIG	CDS	14626	16815	.	-	1	ID=fig|6666666.419440.peg.13;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	16939	17139	.	-	1	ID=fig|6666666.419440.peg.14;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	17176	17529	.	-	1	ID=fig|6666666.419440.peg.15;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	17768	17917	.	-	2	ID=fig|6666666.419440.peg.16;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	17973	18101	.	+	0	ID=fig|6666666.419440.peg.17;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	18118	19857	.	+	1	ID=fig|6666666.419440.peg.18;Name=HecB-like protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	19867	20394	.	+	1	ID=fig|6666666.419440.peg.19;Name=RTX toxin activating lysine-acyltransferase (EC 2.3.1.-);Ontology_term=KEGG_ENZYME:2.3.1.-
+lcl|Query_62349:1095567-1152684	FIG	CDS	20461	29475	.	+	1	ID=fig|6666666.419440.peg.20;Name=Putative large exoprotein involved in heme utilization or adhesion of ShlA/HecA/FhaA family
+lcl|Query_62349:1095567-1152684	FIG	CDS	29481	29855	.	+	0	ID=fig|6666666.419440.peg.21;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	29855	29992	.	+	2	ID=fig|6666666.419440.peg.22;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	29979	30122	.	+	0	ID=fig|6666666.419440.peg.23;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	30326	31042	.	-	2	ID=fig|6666666.419440.peg.24;Name=Putative predicted metal-dependent hydrolase
+lcl|Query_62349:1095567-1152684	FIG	CDS	31042	34137	.	-	1	ID=fig|6666666.419440.peg.25;Name=Type I restriction-modification system%2C restriction subunit R (EC 3.1.21.3);Ontology_term=KEGG_ENZYME:3.1.21.3
+lcl|Query_62349:1095567-1152684	FIG	CDS	34156	35223	.	-	1	ID=fig|6666666.419440.peg.26;Name=ADP-ribose 1-phosphate phophatase related protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	35220	35876	.	-	0	ID=fig|6666666.419440.peg.27;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	35889	37238	.	-	0	ID=fig|6666666.419440.peg.28;Name=Type I restriction-modification system%2C specificity subunit S
+lcl|Query_62349:1095567-1152684	FIG	CDS	37238	39676	.	-	2	ID=fig|6666666.419440.peg.29;Name=Type I restriction-modification system%2C DNA-methyltransferase subunit M (EC 2.1.1.72);Ontology_term=KEGG_ENZYME:2.1.1.72
+lcl|Query_62349:1095567-1152684	FIG	CDS	39716	39892	.	-	2	ID=fig|6666666.419440.peg.30;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	40905	42284	.	+	0	ID=fig|6666666.419440.peg.31;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	42421	42939	.	-	1	ID=fig|6666666.419440.peg.32;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	43147	43236	.	+	1	ID=fig|6666666.419440.peg.33;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	43295	44167	.	+	2	ID=fig|6666666.419440.peg.34;Name=Uncharacterized protein YeeP
+lcl|Query_62349:1095567-1152684	FIG	CDS	44337	44462	.	+	0	ID=fig|6666666.419440.peg.35;Name=FIG00639744: hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	44540	47389	.	+	2	ID=fig|6666666.419440.peg.36;Name=Antigen 43
+lcl|Query_62349:1095567-1152684	FIG	CDS	47500	49884	.	+	1	ID=fig|6666666.419440.peg.37;Name=Clamp-binding protein paralog
+lcl|Query_62349:1095567-1152684	FIG	CDS	49881	50786	.	+	0	ID=fig|6666666.419440.peg.38;Name=Uncharacterized protein YjcZ paralog
+lcl|Query_62349:1095567-1152684	FIG	CDS	50783	51853	.	+	2	ID=fig|6666666.419440.peg.39;Name=Patatin
+lcl|Query_62349:1095567-1152684	FIG	CDS	51968	52102	.	+	2	ID=fig|6666666.419440.peg.40;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	52193	53011	.	+	2	ID=fig|6666666.419440.peg.41;Name=UPF0380 proteins YafZ and homologs
+lcl|Query_62349:1095567-1152684	FIG	CDS	53103	53588	.	+	0	ID=fig|6666666.419440.peg.42;Name=Antirestriction protein klcA
+lcl|Query_62349:1095567-1152684	FIG	CDS	53589	54080	.	+	0	ID=fig|6666666.419440.peg.43;Name=UPF0758 protein YeeS
+lcl|Query_62349:1095567-1152684	FIG	CDS	54149	54370	.	+	2	ID=fig|6666666.419440.peg.44;Name=Uncharacterized protein YeeT
+lcl|Query_62349:1095567-1152684	FIG	CDS	54370	54483	.	+	1	ID=fig|6666666.419440.peg.45;Name=FIG00639142: hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	54533	54907	.	+	2	ID=fig|6666666.419440.peg.46;Name=YeeU protein (antitoxin to YeeV)
+lcl|Query_62349:1095567-1152684	FIG	CDS	54954	55331	.	+	0	ID=fig|6666666.419440.peg.47;Name=YeeV toxin protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	55328	55816	.	+	2	ID=fig|6666666.419440.peg.48;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	55828	56025	.	+	1	ID=fig|6666666.419440.peg.49;Name=hypothetical protein
+lcl|Query_62349:1095567-1152684	FIG	CDS	56110	56952	.	+	1	ID=fig|6666666.419440.peg.50;Name=Z1226 protein

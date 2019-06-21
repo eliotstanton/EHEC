@@ -1,0 +1,130 @@
+##gff-version 3
+SpLE1	FIG	CDS	317	1519	.	+	2	ID=fig|6666666.419442.peg.1;Name=Integrase
+SpLE1	FIG	CDS	1706	3523	.	-	2	ID=fig|6666666.419442.peg.2;Name=putative membrane protein
+SpLE1	FIG	CDS	3720	3815	.	+	0	ID=fig|6666666.419442.peg.3;Name=hypothetical protein
+SpLE1	FIG	CDS	4019	4456	.	+	2	ID=fig|6666666.419442.peg.4;Name=Mobile element protein
+SpLE1	FIG	CDS	4536	4655	.	-	0	ID=fig|6666666.419442.peg.5;Name=FIG00639970: hypothetical protein
+SpLE1	FIG	CDS	4803	4931	.	+	0	ID=fig|6666666.419442.peg.6;Name=Putative regulatory protein
+SpLE1	FIG	CDS	4936	5058	.	+	1	ID=fig|6666666.419442.peg.7;Name=hypothetical protein
+SpLE1	FIG	CDS	5221	5355	.	+	1	ID=fig|6666666.419442.peg.8;Name=hypothetical protein
+SpLE1	FIG	CDS	5574	6959	.	+	0	ID=fig|6666666.419442.peg.9;Name=Uncharacterized protein YfjI
+SpLE1	FIG	CDS	7780	8343	.	+	1	ID=fig|6666666.419442.peg.10;Name=hypothetical protein
+SpLE1	FIG	CDS	8498	10858	.	+	2	ID=fig|6666666.419442.peg.11;Name=Putative helicase
+SpLE1	FIG	CDS	11020	11289	.	-	1	ID=fig|6666666.419442.peg.12;Name=FIG00643789: hypothetical protein
+SpLE1	FIG	CDS	11615	13153	.	-	2	ID=fig|6666666.419442.peg.13;Name=Mobile element protein
+SpLE1	FIG	CDS	13203	13550	.	-	0	ID=fig|6666666.419442.peg.14;Name=hypothetical protein
+SpLE1	FIG	CDS	13547	13927	.	-	2	ID=fig|6666666.419442.peg.15;Name=Mobile element protein
+SpLE1	FIG	CDS	14003	14314	.	-	2	ID=fig|6666666.419442.peg.16;Name=Transposase InsI for insertion sequence element IS30
+SpLE1	FIG	CDS	14454	15272	.	+	0	ID=fig|6666666.419442.peg.17;Name=Mobile element protein
+SpLE1	FIG	CDS	15385	15924	.	+	1	ID=fig|6666666.419442.peg.18;Name=IncF plasmid conjugative transfer surface exclusion protein TraT
+SpLE1	FIG	CDS	15972	16223	.	-	0	ID=fig|6666666.419442.peg.19;Name=hypothetical protein
+SpLE1	FIG	CDS	16247	16537	.	-	2	ID=fig|6666666.419442.peg.20;Name=hypothetical protein
+SpLE1	FIG	CDS	17006	17176	.	+	2	ID=fig|6666666.419442.peg.21;Name=hypothetical protein
+SpLE1	FIG	CDS	17223	17582	.	+	0	ID=fig|6666666.419442.peg.22;Name=Diacylglycerol kinase (EC 2.7.1.107);Ontology_term=KEGG_ENZYME:2.7.1.107
+SpLE1	FIG	CDS	17675	19252	.	-	2	ID=fig|6666666.419442.peg.23;Name=Putative outer membrane protein
+SpLE1	FIG	CDS	19519	19794	.	-	1	ID=fig|6666666.419442.peg.24;Name=hypothetical protein
+SpLE1	FIG	CDS	19846	19965	.	-	1	ID=fig|6666666.419442.peg.25;Name=hypothetical protein
+SpLE1	FIG	CDS	19965	20873	.	+	0	ID=fig|6666666.419442.peg.26;Name=Urease accessory protein UreD
+SpLE1	FIG	CDS	20964	21266	.	+	0	ID=fig|6666666.419442.peg.27;Name=Urease gamma subunit (EC 3.5.1.5);Ontology_term=KEGG_ENZYME:3.5.1.5
+SpLE1	FIG	CDS	21275	21595	.	+	2	ID=fig|6666666.419442.peg.28;Name=Urease beta subunit (EC 3.5.1.5);Ontology_term=KEGG_ENZYME:3.5.1.5
+SpLE1	FIG	CDS	21588	23291	.	+	0	ID=fig|6666666.419442.peg.29;Name=Urease alpha subunit (EC 3.5.1.5);Ontology_term=KEGG_ENZYME:3.5.1.5
+SpLE1	FIG	CDS	23301	23765	.	+	0	ID=fig|6666666.419442.peg.30;Name=Urease accessory protein UreE
+SpLE1	FIG	CDS	23766	24440	.	+	0	ID=fig|6666666.419442.peg.31;Name=Urease accessory protein UreF
+SpLE1	FIG	CDS	24452	25069	.	+	2	ID=fig|6666666.419442.peg.32;Name=Urease accessory protein UreG
+SpLE1	FIG	CDS	25117	25242	.	-	1	ID=fig|6666666.419442.peg.33;Name=Per-activated serine protease autotransporter enterotoxin EspC / autotransporter domain%2C T5aSS type secretion
+SpLE1	FIG	CDS	25325	25666	.	-	2	ID=fig|6666666.419442.peg.34;Name=hypothetical protein (probably bogus)
+SpLE1	FIG	CDS	25728	25856	.	-	0	ID=fig|6666666.419442.peg.35;Name=IncF plasmid conjugative transfer surface exclusion protein TraT
+SpLE1	FIG	CDS	26027	26164	.	+	2	ID=fig|6666666.419442.peg.36;Name=hypothetical protein
+SpLE1	FIG	CDS	26281	26544	.	+	1	ID=fig|6666666.419442.peg.37;Name=LSU ribosomal protein L31p @ LSU ribosomal protein L31p%2C zinc-independent
+SpLE1	FIG	CDS	26846	26986	.	+	2	ID=fig|6666666.419442.peg.38;Name=hypothetical protein
+SpLE1	FIG	CDS	27418	27552	.	-	1	ID=fig|6666666.419442.peg.39;Name=FIG00643650: hypothetical protein
+SpLE1	FIG	CDS	27628	27798	.	+	1	ID=fig|6666666.419442.peg.40;Name=hypothetical protein
+SpLE1	FIG	CDS	27858	28529	.	-	0	ID=fig|6666666.419442.peg.41;Name=putative membrane protein
+SpLE1	FIG	CDS	28646	28804	.	-	2	ID=fig|6666666.419442.peg.42;Name=hypothetical protein
+SpLE1	FIG	CDS	28978	29091	.	-	1	ID=fig|6666666.419442.peg.43;Name=hypothetical protein
+SpLE1	FIG	CDS	29549	29722	.	-	2	ID=fig|6666666.419442.peg.44;Name=FIG00643789: hypothetical protein
+SpLE1	FIG	CDS	30062	30679	.	-	2	ID=fig|6666666.419442.peg.45;Name=Mobile element protein
+SpLE1	FIG	CDS	30867	31292	.	+	0	ID=fig|6666666.419442.peg.46;Name=Mobile element protein
+SpLE1	FIG	CDS	31289	31639	.	+	2	ID=fig|6666666.419442.peg.47;Name=Mobile element protein
+SpLE1	FIG	CDS	31670	33283	.	+	2	ID=fig|6666666.419442.peg.48;Name=Mobile element protein
+SpLE1	FIG	CDS	33287	34144	.	-	2	ID=fig|6666666.419442.peg.49;Name=Mobile element protein
+SpLE1	FIG	CDS	34226	34588	.	-	2	ID=fig|6666666.419442.peg.50;Name=ISPsy5%2C Orf1
+SpLE1	FIG	CDS	34554	34883	.	-	0	ID=fig|6666666.419442.peg.51;Name=hypothetical protein
+SpLE1	FIG	CDS	35144	35611	.	-	2	ID=fig|6666666.419442.peg.52;Name=TerW
+SpLE1	FIG	CDS	35629	36837	.	-	1	ID=fig|6666666.419442.peg.53;Name=hypothetical protein
+SpLE1	FIG	CDS	36848	37804	.	-	2	ID=fig|6666666.419442.peg.54;Name=Similar to citrate lyase beta subunit
+SpLE1	FIG	CDS	37804	38919	.	-	1	ID=fig|6666666.419442.peg.55;Name=putative ATP/GTP-binding protein protein
+SpLE1	FIG	CDS	38885	39658	.	-	2	ID=fig|6666666.419442.peg.56;Name=orf%3B Unknown function
+SpLE1	FIG	CDS	39651	40793	.	-	0	ID=fig|6666666.419442.peg.57;Name=COG0503: Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+SpLE1	FIG	CDS	40803	41861	.	-	0	ID=fig|6666666.419442.peg.58;Name=Carbamoylphosphate synthase large subunit (split gene in MJ)
+SpLE1	FIG	CDS	42184	42765	.	+	1	ID=fig|6666666.419442.peg.59;Name=Tellurium resistance protein TerD
+SpLE1	FIG	CDS	42765	43922	.	+	0	ID=fig|6666666.419442.peg.60;Name=Tellurium resistance protein TerA
+SpLE1	FIG	CDS	43945	44400	.	+	1	ID=fig|6666666.419442.peg.61;Name=Tellurite resistance protein TerB
+SpLE1	FIG	CDS	44423	45463	.	+	2	ID=fig|6666666.419442.peg.62;Name=Integral membrane protein TerC
+SpLE1	FIG	CDS	45512	46090	.	+	2	ID=fig|6666666.419442.peg.63;Name=Tellurium resistance protein TerD
+SpLE1	FIG	CDS	46159	46734	.	+	1	ID=fig|6666666.419442.peg.64;Name=Tellurium resistance protein TerD
+SpLE1	FIG	CDS	46759	46962	.	+	1	ID=fig|6666666.419442.peg.65;Name=hypothetical protein
+SpLE1	FIG	CDS	47156	47464	.	+	2	ID=fig|6666666.419442.peg.66;Name=Tellurium resistance protein
+SpLE1	FIG	CDS	47539	47652	.	+	1	ID=fig|6666666.419442.peg.67;Name=putative phage inhibition%2C colicin resistance and tellurite resistance protein
+SpLE1	FIG	CDS	47745	47978	.	+	0	ID=fig|6666666.419442.peg.68;Name=hypothetical protein
+SpLE1	FIG	CDS	48056	50146	.	-	2	ID=fig|6666666.419442.peg.69;Name=TonB-dependent receptor
+SpLE1	FIG	CDS	50539	50751	.	-	1	ID=fig|6666666.419442.peg.70;Name=hypothetical protein
+SpLE1	FIG	CDS	50802	50936	.	+	0	ID=fig|6666666.419442.peg.71;Name=hypothetical protein
+SpLE1	FIG	CDS	50926	51069	.	+	1	ID=fig|6666666.419442.peg.72;Name=ShiA homolog
+SpLE1	FIG	CDS	51317	51442	.	-	2	ID=fig|6666666.419442.peg.73;Name=hypothetical protein
+SpLE1	FIG	CDS	51599	51817	.	+	2	ID=fig|6666666.419442.peg.74;Name=hypothetical protein
+SpLE1	FIG	CDS	52256	52384	.	-	2	ID=fig|6666666.419442.peg.75;Name=hypothetical protein
+SpLE1	FIG	CDS	52450	52785	.	+	1	ID=fig|6666666.419442.peg.76;Name=FIG00643789: hypothetical protein
+SpLE1	FIG	CDS	53095	53223	.	-	1	ID=fig|6666666.419442.peg.77;Name=hypothetical protein
+SpLE1	FIG	CDS	53314	53436	.	+	1	ID=fig|6666666.419442.peg.78;Name=orf%3B Unknown function
+SpLE1	FIG	CDS	53566	53760	.	-	1	ID=fig|6666666.419442.peg.79;Name=hypothetical protein
+SpLE1	FIG	CDS	53812	53991	.	-	1	ID=fig|6666666.419442.peg.80;Name=FIG00641704: hypothetical protein
+SpLE1	FIG	CDS	54239	54352	.	+	2	ID=fig|6666666.419442.peg.81;Name=hypothetical protein
+SpLE1	FIG	CDS	54357	54470	.	-	0	ID=fig|6666666.419442.peg.82;Name=hypothetical protein
+SpLE1	FIG	CDS	54636	54851	.	+	0	ID=fig|6666666.419442.peg.83;Name=hypothetical protein
+SpLE1	FIG	CDS	54917	55114	.	+	2	ID=fig|6666666.419442.peg.84;Name=hypothetical protein
+SpLE1	FIG	CDS	55844	56968	.	+	2	ID=fig|6666666.419442.peg.85;Name=Glycosyltransferase IroB
+SpLE1	FIG	CDS	57110	57385	.	-	2	ID=fig|6666666.419442.peg.86;Name=Trilactone hydrolase IroD
+SpLE1	FIG	CDS	57387	57890	.	-	0	ID=fig|6666666.419442.peg.87;Name=IS1 protein InsB
+SpLE1	FIG	CDS	57901	58092	.	-	1	ID=fig|6666666.419442.peg.88;Name=hypothetical protein
+SpLE1	FIG	CDS	58322	58780	.	-	2	ID=fig|6666666.419442.peg.89;Name=putative membrane protein
+SpLE1	FIG	CDS	59238	59747	.	+	0	ID=fig|6666666.419442.peg.90;Name=hypothetical protein
+SpLE1	FIG	CDS	59836	60459	.	+	1	ID=fig|6666666.419442.peg.91;Name=hypothetical protein
+SpLE1	FIG	CDS	60555	60788	.	+	0	ID=fig|6666666.419442.peg.92;Name=hypothetical protein
+SpLE1	FIG	CDS	60841	61032	.	-	1	ID=fig|6666666.419442.peg.93;Name=hypothetical protein
+SpLE1	FIG	CDS	61260	61382	.	+	0	ID=fig|6666666.419442.peg.94;Name=FIG00638896: hypothetical protein
+SpLE1	FIG	CDS	61454	61651	.	+	2	ID=fig|6666666.419442.peg.95;Name=hypothetical protein
+SpLE1	FIG	CDS	61626	62513	.	-	0	ID=fig|6666666.419442.peg.96;Name=Mobile element protein
+SpLE1	FIG	CDS	62513	62839	.	-	2	ID=fig|6666666.419442.peg.97;Name=Transposase
+SpLE1	FIG	CDS	62865	63017	.	-	0	ID=fig|6666666.419442.peg.98;Name=hypothetical protein
+SpLE1	FIG	CDS	63020	64066	.	+	2	ID=fig|6666666.419442.peg.99;Name=HecB-like protein
+SpLE1	FIG	CDS	64063	64179	.	+	1	ID=fig|6666666.419442.peg.100;Name=hypothetical protein
+SpLE1	FIG	CDS	64307	64822	.	+	2	ID=fig|6666666.419442.peg.101;Name=hypothetical protein
+SpLE1	FIG	CDS	64819	66987	.	+	1	ID=fig|6666666.419442.peg.102;Name=DNA helicase
+SpLE1	FIG	CDS	67132	67263	.	-	1	ID=fig|6666666.419442.peg.103;Name=hypothetical protein
+SpLE1	FIG	CDS	67274	67420	.	-	2	ID=fig|6666666.419442.peg.104;Name=hypothetical protein
+SpLE1	FIG	CDS	67488	68720	.	+	0	ID=fig|6666666.419442.peg.105;Name=Co-activator of prophage gene expression IbrA
+SpLE1	FIG	CDS	68705	69343	.	+	2	ID=fig|6666666.419442.peg.106;Name=Co-activator of prophage gene expression IbrB
+SpLE1	FIG	CDS	69383	69691	.	+	2	ID=fig|6666666.419442.peg.107;Name=Transcriptional regulator
+SpLE1	FIG	CDS	69712	70356	.	+	1	ID=fig|6666666.419442.peg.108;Name=hypothetical protein
+SpLE1	FIG	CDS	70672	71172	.	+	1	ID=fig|6666666.419442.peg.109;Name=Transposase
+SpLE1	FIG	CDS	71356	71781	.	+	1	ID=fig|6666666.419442.peg.110;Name=Mobile element protein
+SpLE1	FIG	CDS	71778	71867	.	+	0	ID=fig|6666666.419442.peg.111;Name=Mobile element protein
+SpLE1	FIG	CDS	72081	72263	.	-	0	ID=fig|6666666.419442.peg.112;Name=hypothetical protein
+SpLE1	FIG	CDS	72592	73464	.	+	1	ID=fig|6666666.419442.peg.113;Name=Uncharacterized protein YeeP
+SpLE1	FIG	CDS	73634	73825	.	+	2	ID=fig|6666666.419442.peg.114;Name=FIG00639744: hypothetical protein
+SpLE1	FIG	CDS	73836	76685	.	+	0	ID=fig|6666666.419442.peg.115;Name=Antigen 43
+SpLE1	FIG	CDS	76796	79180	.	+	2	ID=fig|6666666.419442.peg.116;Name=Clamp-binding protein paralog
+SpLE1	FIG	CDS	79177	80082	.	+	1	ID=fig|6666666.419442.peg.117;Name=Uncharacterized protein YjcZ paralog
+SpLE1	FIG	CDS	80079	81149	.	+	0	ID=fig|6666666.419442.peg.118;Name=hypothetical protein
+SpLE1	FIG	CDS	81254	81418	.	-	2	ID=fig|6666666.419442.peg.119;Name=hypothetical protein
+SpLE1	FIG	CDS	81489	82307	.	+	0	ID=fig|6666666.419442.peg.120;Name=UPF0380 proteins YafZ and homologs
+SpLE1	FIG	CDS	82398	82883	.	+	0	ID=fig|6666666.419442.peg.121;Name=Antirestriction protein klcA
+SpLE1	FIG	CDS	82899	83375	.	+	0	ID=fig|6666666.419442.peg.122;Name=UPF0758 protein YeeS
+SpLE1	FIG	CDS	83438	83659	.	+	2	ID=fig|6666666.419442.peg.123;Name=Uncharacterized protein YeeT
+SpLE1	FIG	CDS	83659	83772	.	+	1	ID=fig|6666666.419442.peg.124;Name=FIG00639142: hypothetical protein
+SpLE1	FIG	CDS	83822	84196	.	+	2	ID=fig|6666666.419442.peg.125;Name=YeeU protein (antitoxin to YeeV)
+SpLE1	FIG	CDS	84243	84617	.	+	0	ID=fig|6666666.419442.peg.126;Name=YeeV toxin protein
+SpLE1	FIG	CDS	84614	85105	.	+	2	ID=fig|6666666.419442.peg.127;Name=hypothetical protein
+SpLE1	FIG	CDS	85117	85314	.	+	1	ID=fig|6666666.419442.peg.128;Name=hypothetical protein
+SpLE1	FIG	CDS	85399	86241	.	+	1	ID=fig|6666666.419442.peg.129;Name=Z1226 protein

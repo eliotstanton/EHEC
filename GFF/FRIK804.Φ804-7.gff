@@ -1,0 +1,76 @@
+##gff-version 3
+lcl|Query_209247:1637860-1679839	FIG	CDS	153	1271	.	-	0	ID=fig|6666666.352874.peg.1;Name=Prophage lambda integrase
+lcl|Query_209247:1637860-1679839	FIG	CDS	1240	1509	.	-	1	ID=fig|6666666.352874.peg.2;Name=Putative excisionase
+lcl|Query_209247:1637860-1679839	FIG	CDS	1571	1915	.	-	2	ID=fig|6666666.352874.peg.3;Name=Exodeoxyribonuclease VIII (EC 3.1.11.-);Ontology_term=KEGG_ENZYME:3.1.11.-
+lcl|Query_209247:1637860-1679839	FIG	CDS	2093	2608	.	+	2	ID=fig|6666666.352874.peg.4;Name=FIG00638218: hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	2723	2875	.	-	2	ID=fig|6666666.352874.peg.5;Name=Mobile element protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	3191	3667	.	-	2	ID=fig|6666666.352874.peg.6;Name=Rac prophage repressor
+lcl|Query_209247:1637860-1679839	FIG	CDS	3792	4115	.	+	0	ID=fig|6666666.352874.peg.7;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	4099	4524	.	+	1	ID=fig|6666666.352874.peg.8;Name=Phage or Prophage Related
+lcl|Query_209247:1637860-1679839	FIG	CDS	4593	5630	.	+	0	ID=fig|6666666.352874.peg.9;Name=Primosomal protein I
+lcl|Query_209247:1637860-1679839	FIG	CDS	5623	6084	.	+	1	ID=fig|6666666.352874.peg.10;Name=Replication protein P
+lcl|Query_209247:1637860-1679839	FIG	CDS	6119	6817	.	+	2	ID=fig|6666666.352874.peg.11;Name=FIG00639353: hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	6839	7063	.	+	2	ID=fig|6666666.352874.peg.12;Name=FIG00638459: hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	7060	7416	.	+	1	ID=fig|6666666.352874.peg.13;Name=FIG00639703: hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	7413	7601	.	+	0	ID=fig|6666666.352874.peg.14;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	7598	7909	.	+	2	ID=fig|6666666.352874.peg.15;Name=Phage protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	8036	8599	.	+	2	ID=fig|6666666.352874.peg.16;Name=FIG00638927: hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	8664	8813	.	+	0	ID=fig|6666666.352874.peg.17;Name=FIG00639545: hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	9057	9212	.	+	0	ID=fig|6666666.352874.peg.18;Name=MokW protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	9254	9577	.	-	2	ID=fig|6666666.352874.peg.19;Name=Mobile element protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	9660	10709	.	+	0	ID=fig|6666666.352874.peg.20;Name=Phage antitermination protein Q
+lcl|Query_209247:1637860-1679839	FIG	CDS	10722	11081	.	+	0	ID=fig|6666666.352874.peg.21;Name=Holliday junction resolvase / Crossover junction endodeoxyribonuclease rusA (EC 3.1.22.-);Ontology_term=KEGG_ENZYME:3.1.22.-
+lcl|Query_209247:1637860-1679839	FIG	CDS	11078	11767	.	+	2	ID=fig|6666666.352874.peg.22;Name=Phage antitermination protein Q
+lcl|Query_209247:1637860-1679839	FIG	CDS	12410	12829	.	+	2	ID=fig|6666666.352874.peg.23;Name=FIG00639830: hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	12826	12993	.	+	1	ID=fig|6666666.352874.peg.24;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	13131	13253	.	+	0	ID=fig|6666666.352874.peg.25;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	13307	15157	.	+	2	ID=fig|6666666.352874.peg.26;Name=Mobile element protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	15239	16129	.	-	2	ID=fig|6666666.352874.peg.27;Name=Mobile element protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	16126	16452	.	-	1	ID=fig|6666666.352874.peg.28;Name=Mobile element protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	16771	16977	.	+	1	ID=fig|6666666.352874.peg.29;Name=Phage holin
+lcl|Query_209247:1637860-1679839	FIG	CDS	16982	17326	.	+	2	ID=fig|6666666.352874.peg.30;Name=FIG00638659: hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	17377	17910	.	+	1	ID=fig|6666666.352874.peg.31;Name=Phage lysin%2C 1%2C4-beta-N-acetylmuramidase (EC 3.2.1.17) or lysozyme;Ontology_term=KEGG_ENZYME:3.2.1.17
+lcl|Query_209247:1637860-1679839	FIG	CDS	18102	18248	.	+	0	ID=fig|6666666.352874.peg.32;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	18400	18867	.	+	1	ID=fig|6666666.352874.peg.33;Name=putative endopeptidase
+lcl|Query_209247:1637860-1679839	FIG	CDS	18950	19090	.	+	2	ID=fig|6666666.352874.peg.34;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	19216	19329	.	-	1	ID=fig|6666666.352874.peg.35;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	19332	19646	.	+	0	ID=fig|6666666.352874.peg.36;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	19728	19892	.	-	0	ID=fig|6666666.352874.peg.37;Name=DNA-damage-inducible protein I
+lcl|Query_209247:1637860-1679839	FIG	CDS	20100	20225	.	+	0	ID=fig|6666666.352874.peg.38;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	20416	20856	.	+	1	ID=fig|6666666.352874.peg.39;Name=Terminase small subunit
+lcl|Query_209247:1637860-1679839	FIG	CDS	20858	22756	.	+	2	ID=fig|6666666.352874.peg.40;Name=Phage terminase%2C large subunit
+lcl|Query_209247:1637860-1679839	FIG	CDS	22740	22946	.	+	0	ID=fig|6666666.352874.peg.41;Name=Phage head-to-tail joining protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	22943	24535	.	+	2	ID=fig|6666666.352874.peg.42;Name=Phage portal protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	24525	26030	.	+	0	ID=fig|6666666.352874.peg.43;Name=Phage capsid and scaffold
+lcl|Query_209247:1637860-1679839	FIG	CDS	26067	26414	.	+	0	ID=fig|6666666.352874.peg.44;Name=Head decoration protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	26472	26738	.	+	0	ID=fig|6666666.352874.peg.45;Name=Phage major capsid protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	26798	27460	.	+	2	ID=fig|6666666.352874.peg.46;Name=Phage minor tail protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	27474	27905	.	+	0	ID=fig|6666666.352874.peg.47;Name=Phage minor tail protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	27932	28345	.	+	2	ID=fig|6666666.352874.peg.48;Name=Phage minor tail protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	28326	30905	.	+	0	ID=fig|6666666.352874.peg.49;Name=Phage tail length tape-measure protein 1
+lcl|Query_209247:1637860-1679839	FIG	CDS	30902	31231	.	+	2	ID=fig|6666666.352874.peg.50;Name=Phage minor tail protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	31231	31929	.	+	1	ID=fig|6666666.352874.peg.51;Name=Phage minor tail protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	31940	32683	.	+	2	ID=fig|6666666.352874.peg.52;Name=Phage tail assembly protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	32680	33258	.	+	1	ID=fig|6666666.352874.peg.53;Name=Phage tail assembly protein I
+lcl|Query_209247:1637860-1679839	FIG	CDS	33304	33423	.	+	1	ID=fig|6666666.352874.peg.54;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	33499	36633	.	+	1	ID=fig|6666666.352874.peg.55;Name=Phage tail fiber protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	36681	36977	.	+	0	ID=fig|6666666.352874.peg.56;Name=Phage tail fiber protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	37045	37644	.	+	1	ID=fig|6666666.352874.peg.57;Name=Attachment invasion locus protein precursor
+lcl|Query_209247:1637860-1679839	FIG	CDS	37709	39022	.	+	2	ID=fig|6666666.352874.peg.58;Name=Phage tail fiber protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	39024	39293	.	+	0	ID=fig|6666666.352874.peg.59;Name=Phage tail fiber protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	39419	39565	.	-	2	ID=fig|6666666.352874.peg.60;Name=FIG00638423: hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	39541	39681	.	+	1	ID=fig|6666666.352874.peg.61;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	39682	39822	.	+	1	ID=fig|6666666.352874.peg.62;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	39823	39963	.	+	1	ID=fig|6666666.352874.peg.63;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	39964	40104	.	+	1	ID=fig|6666666.352874.peg.64;Name=hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	40284	40448	.	+	0	ID=fig|6666666.352874.peg.65;Name=FIG00638266: hypothetical protein
+lcl|Query_209247:1637860-1679839	FIG	CDS	40757	41410	.	-	2	ID=fig|6666666.352874.peg.66;Name=unknown protein encoded within prophage CP-933U
+lcl|Query_209247:1637860-1679839	FIG	tRNA	11978	12053	.	+	.	ID=fig|6666666.352874.rna.1;Name=tRNA-Met-CAT
+lcl|Query_209247:1637860-1679839	FIG	tRNA	11978	12053	.	+	.	ID=fig|6666666.352874.rna.1;Name=tRNA-Met-CAT
+lcl|Query_209247:1637860-1679839	FIG	tRNA	11978	12053	.	+	.	ID=fig|6666666.352874.rna.1;Name=tRNA-Met-CAT
+lcl|Query_209247:1637860-1679839	FIG	tRNA	12061	12137	.	+	.	ID=fig|6666666.352874.rna.2;Name=tRNA-Arg-TCG
+lcl|Query_209247:1637860-1679839	FIG	tRNA	12061	12137	.	+	.	ID=fig|6666666.352874.rna.2;Name=tRNA-Arg-TCG
+lcl|Query_209247:1637860-1679839	FIG	tRNA	12061	12137	.	+	.	ID=fig|6666666.352874.rna.2;Name=tRNA-Arg-TCG
+lcl|Query_209247:1637860-1679839	FIG	tRNA	12151	12227	.	+	.	ID=fig|6666666.352874.rna.3;Name=tRNA-Arg-TCT
+lcl|Query_209247:1637860-1679839	FIG	tRNA	12151	12227	.	+	.	ID=fig|6666666.352874.rna.3;Name=tRNA-Arg-TCT
+lcl|Query_209247:1637860-1679839	FIG	tRNA	12151	12227	.	+	.	ID=fig|6666666.352874.rna.3;Name=tRNA-Arg-TCT

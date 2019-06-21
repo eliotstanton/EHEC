@@ -1,0 +1,58 @@
+##gff-version 3
+Sp18	FIG	CDS	2	205	.	+	2	ID=fig|6666666.419438.peg.1;Name=hypothetical protein
+Sp18	FIG	CDS	378	908	.	-	0	ID=fig|6666666.419438.peg.2;Name=Putative regulatory protein
+Sp18	FIG	CDS	1099	1347	.	+	1	ID=fig|6666666.419438.peg.3;Name=Putative DNA-binding protein
+Sp18	FIG	CDS	1349	3439	.	+	2	ID=fig|6666666.419438.peg.4;Name=Phage transposase
+Sp18	FIG	CDS	3510	4442	.	+	0	ID=fig|6666666.419438.peg.5;Name=Replication initiation ATPase%3B bacteriophage DNA transposition B protein
+Sp18	FIG	CDS	4445	4666	.	+	2	ID=fig|6666666.419438.peg.6;Name=hypothetical protein
+Sp18	FIG	CDS	4679	4933	.	+	2	ID=fig|6666666.419438.peg.7;Name=hypothetical protein
+Sp18	FIG	CDS	4935	5216	.	+	0	ID=fig|6666666.419438.peg.8;Name=hypothetical protein
+Sp18	FIG	CDS	5213	5485	.	+	2	ID=fig|6666666.419438.peg.9;Name=hypothetical protein
+Sp18	FIG	CDS	5490	5783	.	+	0	ID=fig|6666666.419438.peg.10;Name=hypothetical protein
+Sp18	FIG	CDS	5795	6325	.	+	2	ID=fig|6666666.419438.peg.11;Name=putative host-nuclease inhibitor protein
+Sp18	FIG	CDS	6423	6965	.	+	0	ID=fig|6666666.419438.peg.12;Name=hypothetical protein
+Sp18	FIG	CDS	6969	7502	.	+	0	ID=fig|6666666.419438.peg.13;Name=similar to Gp11 [Bacteriophage Mu] gi|6010385|gb|AAF01088.1|AF083977_7
+Sp18	FIG	CDS	7502	8017	.	+	2	ID=fig|6666666.419438.peg.14;Name=hypothetical protein
+Sp18	FIG	CDS	8021	8572	.	+	2	ID=fig|6666666.419438.peg.15;Name=hypothetical protein
+Sp18	FIG	CDS	8569	8754	.	+	1	ID=fig|6666666.419438.peg.16;Name=hypothetical protein
+Sp18	FIG	CDS	8751	9125	.	+	0	ID=fig|6666666.419438.peg.17;Name=hypothetical protein
+Sp18	FIG	CDS	9118	9315	.	+	1	ID=fig|6666666.419438.peg.18;Name=hypothetical protein
+Sp18	FIG	CDS	9305	9601	.	+	2	ID=fig|6666666.419438.peg.19;Name=hypothetical protein
+Sp18	FIG	CDS	9598	10107	.	+	1	ID=fig|6666666.419438.peg.20;Name=FIG00638221: hypothetical protein
+Sp18	FIG	CDS	10177	10602	.	+	1	ID=fig|6666666.419438.peg.21;Name=Putative transcription regulator
+Sp18	FIG	CDS	10674	11174	.	+	0	ID=fig|6666666.419438.peg.22;Name=Lysozyme (EC 3.2.1.17) @ Phage lysozyme (EC 3.2.1.17);Ontology_term=KEGG_ENZYME:3.2.1.17,KEGG_ENZYME:3.2.1.17
+Sp18	FIG	CDS	11239	11637	.	+	1	ID=fig|6666666.419438.peg.23;Name=hypothetical protein
+Sp18	FIG	CDS	11621	11839	.	+	2	ID=fig|6666666.419438.peg.24;Name=Phage lysin
+Sp18	FIG	CDS	11849	12076	.	+	2	ID=fig|6666666.419438.peg.25;Name=C4-type zinc finger protein (TraR family)
+Sp18	FIG	CDS	12057	12365	.	+	0	ID=fig|6666666.419438.peg.26;Name=hypothetical protein
+Sp18	FIG	CDS	12362	12652	.	+	2	ID=fig|6666666.419438.peg.27;Name=Mu-like phage gp26
+Sp18	FIG	CDS	12655	13236	.	+	1	ID=fig|6666666.419438.peg.28;Name=hypothetical protein
+Sp18	FIG	CDS	13236	14900	.	+	0	ID=fig|6666666.419438.peg.29;Name=Mu-like prophage FluMu protein gp28
+Sp18	FIG	CDS	14900	16489	.	+	2	ID=fig|6666666.419438.peg.30;Name=Mu-like prophage FluMu protein gp29
+Sp18	FIG	CDS	16473	17798	.	+	0	ID=fig|6666666.419438.peg.31;Name=Phage (Mu-like) virion morphogenesis protein
+Sp18	FIG	CDS	17917	18390	.	+	1	ID=fig|6666666.419438.peg.32;Name=Putative virion morphogenesis protein
+Sp18	FIG	CDS	18567	19691	.	+	0	ID=fig|6666666.419438.peg.33;Name=Mu-like prophage FluMu I protein
+Sp18	FIG	CDS	19691	20638	.	+	2	ID=fig|6666666.419438.peg.34;Name=Phage major capsid protein
+Sp18	FIG	CDS	20682	21068	.	+	0	ID=fig|6666666.419438.peg.35;Name=hypothetical protein
+Sp18	FIG	CDS	21065	21484	.	+	2	ID=fig|6666666.419438.peg.36;Name=Mu-like prophage protein GP36
+Sp18	FIG	CDS	21481	22041	.	+	1	ID=fig|6666666.419438.peg.37;Name=Mu-like prophage FluMu protein gp37
+Sp18	FIG	CDS	22042	22287	.	+	1	ID=fig|6666666.419438.peg.38;Name=Mu-like prophage FluMu protein GP38
+Sp18	FIG	CDS	22284	23786	.	+	0	ID=fig|6666666.419438.peg.39;Name=Bacteriophage tail sheath protein
+Sp18	FIG	CDS	23795	24160	.	+	2	ID=fig|6666666.419438.peg.40;Name=Phage tail tube protein
+Sp18	FIG	CDS	24175	24651	.	+	1	ID=fig|6666666.419438.peg.41;Name=Mu-like prophage FluMu protein gp41
+Sp18	FIG	CDS	24778	26853	.	+	1	ID=fig|6666666.419438.peg.42;Name=Mu-like prophage FluMu protein gp42
+Sp18	FIG	CDS	26840	28189	.	+	2	ID=fig|6666666.419438.peg.43;Name=Phage tail/DNA circulation protein
+Sp18	FIG	CDS	28173	29297	.	+	0	ID=fig|6666666.419438.peg.44;Name=FIG003269: Prophage tail protein
+Sp18	FIG	CDS	29287	29901	.	+	1	ID=fig|6666666.419438.peg.45;Name=Prophage baseplate assembly protein V
+Sp18	FIG	CDS	29894	30331	.	+	2	ID=fig|6666666.419438.peg.46;Name=Bacteriophage protein GP46
+Sp18	FIG	CDS	30331	31413	.	+	1	ID=fig|6666666.419438.peg.47;Name=Phage FluMu protein gp47
+Sp18	FIG	CDS	31404	31964	.	+	0	ID=fig|6666666.419438.peg.48;Name=FIG121501: Prophage tail protein
+Sp18	FIG	CDS	31964	32875	.	+	2	ID=fig|6666666.419438.peg.49;Name=Prophage tail fiber protein
+Sp18	FIG	CDS	32910	33542	.	-	0	ID=fig|6666666.419438.peg.50;Name=Phage tail fiber assembly protein
+Sp18	FIG	CDS	33511	33726	.	-	1	ID=fig|6666666.419438.peg.51;Name=Prophage tail fiber protein
+Sp18	FIG	CDS	33936	34496	.	+	0	ID=fig|6666666.419438.peg.52;Name=Phage DNA invertase
+Sp18	FIG	CDS	34596	36635	.	+	0	ID=fig|6666666.419438.peg.53;Name=hypothetical protein
+Sp18	FIG	CDS	36782	36964	.	+	2	ID=fig|6666666.419438.peg.54;Name=hypothetical protein
+Sp18	FIG	CDS	37000	37245	.	+	1	ID=fig|6666666.419438.peg.55;Name=hypothetical protein
+Sp18	FIG	CDS	37284	37748	.	-	0	ID=fig|6666666.419438.peg.56;Name=hypothetical protein
+Sp18	FIG	CDS	38017	38754	.	+	1	ID=fig|6666666.419438.peg.57;Name=Phage Mu Mom-like protein

@@ -1,0 +1,80 @@
+##gff-version 3
+lcl|Query_155241:2750784-2801252	FIG	CDS	384	1745	.	+	0	ID=fig|6666666.364006.peg.1;Name=Leucine-rich repeat protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	1806	2081	.	+	0	ID=fig|6666666.364006.peg.2;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	2161	2286	.	-	1	ID=fig|6666666.364006.peg.3;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	2309	2608	.	-	2	ID=fig|6666666.364006.peg.4;Name=Mobile element protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	2619	2780	.	+	0	ID=fig|6666666.364006.peg.5;Name=Mobile element protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	2847	2984	.	+	0	ID=fig|6666666.364006.peg.6;Name=Mobile element protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	3056	3847	.	+	2	ID=fig|6666666.364006.peg.7;Name=Mobile element protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	3894	4013	.	+	0	ID=fig|6666666.364006.peg.8;Name=Leucine-rich repeat protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	4390	6624	.	-	1	ID=fig|6666666.364006.peg.9;Name=FIG01046091: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	6807	7790	.	-	0	ID=fig|6666666.364006.peg.10;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	8381	10729	.	-	2	ID=fig|6666666.364006.peg.11;Name=Putative secreted effector protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	10851	11036	.	-	0	ID=fig|6666666.364006.peg.12;Name=Phage tail assembly protein I
+lcl|Query_155241:2750784-2801252	FIG	CDS	11033	11707	.	-	2	ID=fig|6666666.364006.peg.13;Name=Phage tail assembly protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	11824	12702	.	-	1	ID=fig|6666666.364006.peg.14;Name=putative antirepressor protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	12765	12887	.	-	0	ID=fig|6666666.364006.peg.15;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	13005	13145	.	-	0	ID=fig|6666666.364006.peg.16;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	13264	13479	.	+	1	ID=fig|6666666.364006.peg.17;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	13496	14194	.	-	2	ID=fig|6666666.364006.peg.18;Name=Phage minor tail protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	14194	14535	.	-	1	ID=fig|6666666.364006.peg.19;Name=Phage minor tail protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	14528	17770	.	-	2	ID=fig|6666666.364006.peg.20;Name=Phage tail length tape-measure protein 1
+lcl|Query_155241:2750784-2801252	FIG	CDS	17823	18104	.	-	0	ID=fig|6666666.364006.peg.21;Name=Phage protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	18128	18502	.	-	2	ID=fig|6666666.364006.peg.22;Name=Phage tail assembly chaperone
+lcl|Query_155241:2750784-2801252	FIG	CDS	18508	19224	.	-	1	ID=fig|6666666.364006.peg.23;Name=Phage neck whiskers
+lcl|Query_155241:2750784-2801252	FIG	CDS	19283	19627	.	-	2	ID=fig|6666666.364006.peg.24;Name=FIG00638104: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	19624	20070	.	-	1	ID=fig|6666666.364006.peg.25;Name=Phage protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	20067	20417	.	-	0	ID=fig|6666666.364006.peg.26;Name=Phage capsid and scaffold
+lcl|Query_155241:2750784-2801252	FIG	CDS	20427	20753	.	-	0	ID=fig|6666666.364006.peg.27;Name=DNA-damage-inducible protein I
+lcl|Query_155241:2750784-2801252	FIG	CDS	20750	20866	.	-	2	ID=fig|6666666.364006.peg.28;Name=Phage portal protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	20833	23247	.	-	1	ID=fig|6666666.364006.peg.29;Name=Phage portal protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	23280	23501	.	-	0	ID=fig|6666666.364006.peg.30;Name=DNA-damage-inducible protein I
+lcl|Query_155241:2750784-2801252	FIG	CDS	23546	25483	.	-	2	ID=fig|6666666.364006.peg.31;Name=Phage capsid and scaffold
+lcl|Query_155241:2750784-2801252	FIG	CDS	25547	27208	.	-	2	ID=fig|6666666.364006.peg.32;Name=Phage terminase%2C large subunit
+lcl|Query_155241:2750784-2801252	FIG	CDS	27205	27768	.	-	1	ID=fig|6666666.364006.peg.33;Name=Phage terminase%2C small subunit
+lcl|Query_155241:2750784-2801252	FIG	CDS	28058	28261	.	-	2	ID=fig|6666666.364006.peg.34;Name=putative Dnase
+lcl|Query_155241:2750784-2801252	FIG	CDS	28280	28405	.	+	2	ID=fig|6666666.364006.peg.35;Name=unknown protein encoded within prophage CP-933V
+lcl|Query_155241:2750784-2801252	FIG	CDS	28465	28650	.	+	1	ID=fig|6666666.364006.peg.36;Name=DNA-damage-inducible protein I
+lcl|Query_155241:2750784-2801252	FIG	CDS	28780	28920	.	-	1	ID=fig|6666666.364006.peg.37;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	29007	29129	.	-	0	ID=fig|6666666.364006.peg.38;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	29277	29501	.	-	0	ID=fig|6666666.364006.peg.39;Name=FIG00639442: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	29525	29992	.	-	2	ID=fig|6666666.364006.peg.40;Name=putative endopeptidase
+lcl|Query_155241:2750784-2801252	FIG	CDS	30000	30146	.	-	0	ID=fig|6666666.364006.peg.41;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	30146	30715	.	-	2	ID=fig|6666666.364006.peg.42;Name=Phage antirepressor protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	30747	30866	.	-	0	ID=fig|6666666.364006.peg.43;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	30986	31519	.	-	2	ID=fig|6666666.364006.peg.44;Name=Phage lysin%2C 1%2C4-beta-N-acetylmuramidase (EC 3.2.1.17) or lysozyme;Ontology_term=KEGG_ENZYME:3.2.1.17
+lcl|Query_155241:2750784-2801252	FIG	CDS	31570	31914	.	-	1	ID=fig|6666666.364006.peg.45;Name=FIG00638659: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	31919	32134	.	-	2	ID=fig|6666666.364006.peg.46;Name=Phage holin
+lcl|Query_155241:2750784-2801252	FIG	CDS	32210	32479	.	-	2	ID=fig|6666666.364006.peg.47;Name=ORF C81-like
+lcl|Query_155241:2750784-2801252	FIG	CDS	32517	32699	.	-	0	ID=fig|6666666.364006.peg.48;Name=FIG00641088: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	32847	34784	.	-	0	ID=fig|6666666.364006.peg.49;Name=Mobile element protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	34833	34961	.	-	0	ID=fig|6666666.364006.peg.50;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	35099	35266	.	-	2	ID=fig|6666666.364006.peg.51;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	35263	35409	.	-	1	ID=fig|6666666.364006.peg.52;Name=FIG00639830: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	35863	36684	.	-	1	ID=fig|6666666.364006.peg.53;Name=Phage antitermination protein Q
+lcl|Query_155241:2750784-2801252	FIG	CDS	36681	37055	.	-	0	ID=fig|6666666.364006.peg.54;Name=Holliday junction resolvase / Crossover junction endodeoxyribonuclease rusA (EC 3.1.22.-);Ontology_term=KEGG_ENZYME:3.1.22.-
+lcl|Query_155241:2750784-2801252	FIG	CDS	37068	38117	.	-	0	ID=fig|6666666.364006.peg.55;Name=Phage antitermination protein Q
+lcl|Query_155241:2750784-2801252	FIG	CDS	38200	38379	.	+	1	ID=fig|6666666.364006.peg.56;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	38401	38523	.	+	1	ID=fig|6666666.364006.peg.57;Name=Mobile element protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	38565	38720	.	-	0	ID=fig|6666666.364006.peg.58;Name=MokW protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	38966	39115	.	-	2	ID=fig|6666666.364006.peg.59;Name=FIG00639545: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	39186	39773	.	-	0	ID=fig|6666666.364006.peg.60;Name=FIG00638204: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	39776	39967	.	-	2	ID=fig|6666666.364006.peg.61;Name=unknown
+lcl|Query_155241:2750784-2801252	FIG	CDS	39969	40406	.	-	0	ID=fig|6666666.364006.peg.62;Name=Phage protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	40393	40710	.	-	1	ID=fig|6666666.364006.peg.63;Name=FIG00641025: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	40664	40981	.	-	2	ID=fig|6666666.364006.peg.64;Name=unknown protein encoded by prophage CP-933N
+lcl|Query_155241:2750784-2801252	FIG	CDS	40971	41273	.	-	0	ID=fig|6666666.364006.peg.65;Name=FIG00640735: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	41270	41587	.	-	2	ID=fig|6666666.364006.peg.66;Name=FIG00638052: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	41584	42300	.	-	1	ID=fig|6666666.364006.peg.67;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	42334	42795	.	-	1	ID=fig|6666666.364006.peg.68;Name=putative phage replication protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	42788	43825	.	-	2	ID=fig|6666666.364006.peg.69;Name=Primosomal protein I
+lcl|Query_155241:2750784-2801252	FIG	CDS	43894	44319	.	-	1	ID=fig|6666666.364006.peg.70;Name=Phage or Prophage Related
+lcl|Query_155241:2750784-2801252	FIG	CDS	44316	44543	.	-	0	ID=fig|6666666.364006.peg.71;Name=hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	44944	45285	.	+	1	ID=fig|6666666.364006.peg.72;Name=putative repressor protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	45560	45712	.	+	2	ID=fig|6666666.364006.peg.73;Name=Mobile element protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	45888	46103	.	-	0	ID=fig|6666666.364006.peg.74;Name=FIG00638627: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	46193	46381	.	+	2	ID=fig|6666666.364006.peg.75;Name=Division inhibition protein dicB
+lcl|Query_155241:2750784-2801252	FIG	CDS	46378	46566	.	+	1	ID=fig|6666666.364006.peg.76;Name=FIG00637919: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	46662	49133	.	+	0	ID=fig|6666666.364006.peg.77;Name=Exodeoxyribonuclease VIII (EC 3.1.11.-);Ontology_term=KEGG_ENZYME:3.1.11.-
+lcl|Query_155241:2750784-2801252	FIG	CDS	49192	49395	.	+	1	ID=fig|6666666.364006.peg.78;Name=FIG01070140: hypothetical protein
+lcl|Query_155241:2750784-2801252	FIG	CDS	49395	50417	.	+	0	ID=fig|6666666.364006.peg.79;Name=Mobile element protein

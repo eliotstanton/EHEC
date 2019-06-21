@@ -1,0 +1,103 @@
+##gff-version 3
+Sp5	FIG	CDS	1	174	.	-	1	ID=fig|6666666.419445.peg.1;Name=NAD(P)H dehydrogenase (quinone)%2C Type IV (EC 1.6.5.2);Ontology_term=KEGG_ENZYME:1.6.5.2
+Sp5	FIG	CDS	171	1481	.	-	0	ID=fig|6666666.419445.peg.2;Name=Lambdoid phage Rac integrase
+Sp5	FIG	CDS	1534	1818	.	-	1	ID=fig|6666666.419445.peg.3;Name=Phage excisionase
+Sp5	FIG	CDS	1904	2215	.	-	2	ID=fig|6666666.419445.peg.4;Name=Phage protein
+Sp5	FIG	CDS	2275	2559	.	-	1	ID=fig|6666666.419445.peg.5;Name=Phage protein
+Sp5	FIG	CDS	2552	3175	.	-	2	ID=fig|6666666.419445.peg.6;Name=Phage protein
+Sp5	FIG	CDS	3179	3466	.	-	2	ID=fig|6666666.419445.peg.7;Name=Phage protein
+Sp5	FIG	CDS	3468	3686	.	-	0	ID=fig|6666666.419445.peg.8;Name=hypothetical protein
+Sp5	FIG	CDS	3688	3903	.	-	1	ID=fig|6666666.419445.peg.9;Name=Phage protein
+Sp5	FIG	CDS	3915	4034	.	-	0	ID=fig|6666666.419445.peg.10;Name=hypothetical protein
+Sp5	FIG	CDS	4090	4245	.	-	1	ID=fig|6666666.419445.peg.11;Name=Phage protein
+Sp5	FIG	CDS	4245	5018	.	-	0	ID=fig|6666666.419445.peg.12;Name=hypothetical protein
+Sp5	FIG	CDS	5015	5236	.	-	2	ID=fig|6666666.419445.peg.13;Name=Hypothetical Zinc-finger containing protein
+Sp5	FIG	CDS	5335	5550	.	-	1	ID=fig|6666666.419445.peg.14;Name=Phage protein
+Sp5	FIG	CDS	5627	5818	.	-	2	ID=fig|6666666.419445.peg.15;Name=Recombinational DNA repair protein RecT (prophage associated)
+Sp5	FIG	CDS	5791	5973	.	-	1	ID=fig|6666666.419445.peg.16;Name=Phage protein
+Sp5	FIG	CDS	5970	6650	.	-	0	ID=fig|6666666.419445.peg.17;Name=Phage exonuclease (EC 3.1.11.3)%3B Putative phage-encoded enzyme involved in integration-recombination;Ontology_term=KEGG_ENZYME:3.1.11.3
+Sp5	FIG	CDS	6647	7432	.	-	2	ID=fig|6666666.419445.peg.18;Name=Phage integrase family protein
+Sp5	FIG	CDS	7438	7734	.	-	1	ID=fig|6666666.419445.peg.19;Name=IS%2C phage%2C Tn%3B Transposon-related functions
+Sp5	FIG	CDS	7809	7952	.	-	0	ID=fig|6666666.419445.peg.20;Name=Kil protein
+Sp5	FIG	CDS	7921	8085	.	-	1	ID=fig|6666666.419445.peg.21;Name=Phage regulatory protein
+Sp5	FIG	CDS	8158	8526	.	-	1	ID=fig|6666666.419445.peg.22;Name=Single stranded DNA-binding protein%2C phage-associated
+Sp5	FIG	CDS	8709	8960	.	-	0	ID=fig|6666666.419445.peg.23;Name=Phage protein
+Sp5	FIG	CDS	9269	9451	.	-	2	ID=fig|6666666.419445.peg.24;Name=hypothetical protein
+Sp5	FIG	CDS	10020	10541	.	-	0	ID=fig|6666666.419445.peg.25;Name=Phage protein
+Sp5	FIG	CDS	10764	10898	.	-	0	ID=fig|6666666.419445.peg.26;Name=hypothetical protein
+Sp5	FIG	CDS	11043	11696	.	-	0	ID=fig|6666666.419445.peg.27;Name=Phage repressor
+Sp5	FIG	CDS	11814	12029	.	+	0	ID=fig|6666666.419445.peg.28;Name=Phage repressor
+Sp5	FIG	CDS	12171	12467	.	+	0	ID=fig|6666666.419445.peg.29;Name=Phage repressor
+Sp5	FIG	CDS	12500	12646	.	+	2	ID=fig|6666666.419445.peg.30;Name=Phage protein
+Sp5	FIG	CDS	12639	13538	.	+	0	ID=fig|6666666.419445.peg.31;Name=Phage DNA replication protein O
+Sp5	FIG	CDS	13528	14964	.	+	1	ID=fig|6666666.419445.peg.32;Name=DNA helicase (EC 3.6.4.12)%2C phage-associated;Ontology_term=KEGG_ENZYME:3.6.4.12
+Sp5	FIG	CDS	14964	15233	.	+	0	ID=fig|6666666.419445.peg.33;Name=Phage protein
+Sp5	FIG	CDS	15304	15582	.	+	1	ID=fig|6666666.419445.peg.34;Name=Phage protein
+Sp5	FIG	CDS	15715	15930	.	+	1	ID=fig|6666666.419445.peg.35;Name=Phage protein
+Sp5	FIG	CDS	15941	16177	.	+	2	ID=fig|6666666.419445.peg.36;Name=hypothetical protein
+Sp5	FIG	CDS	16577	17104	.	+	2	ID=fig|6666666.419445.peg.37;Name=Phage-associated DNA N-6-adenine methyltransferase
+Sp5	FIG	CDS	17101	17283	.	+	1	ID=fig|6666666.419445.peg.38;Name=Protein NinE
+Sp5	FIG	CDS	17558	18292	.	+	2	ID=fig|6666666.419445.peg.39;Name=putative antirepressor protein
+Sp5	FIG	CDS	18367	19089	.	+	1	ID=fig|6666666.419445.peg.40;Name=Phage DNA binding protein Roi
+Sp5	FIG	CDS	19089	19694	.	+	0	ID=fig|6666666.419445.peg.41;Name=Protein NinG
+Sp5	FIG	CDS	19691	19885	.	+	2	ID=fig|6666666.419445.peg.42;Name=Phage NinH (ACLAME 421)
+Sp5	FIG	CDS	19878	20312	.	+	0	ID=fig|6666666.419445.peg.43;Name=IS%2C phage%2C Tn%3B Transposon-related functions
+Sp5	FIG	CDS	20561	20713	.	+	2	ID=fig|6666666.419445.peg.44;Name=hypothetical protein
+Sp5	FIG	CDS	21273	22055	.	+	0	ID=fig|6666666.419445.peg.45;Name=Shiga toxin II subunit A (EC 3.2.2.22);Ontology_term=KEGG_ENZYME:3.2.2.22
+Sp5	FIG	CDS	22067	22336	.	+	2	ID=fig|6666666.419445.peg.46;Name=Shiga toxin II subunit B
+Sp5	FIG	CDS	22823	24727	.	+	2	ID=fig|6666666.419445.peg.47;Name=hypothetical protein
+Sp5	FIG	CDS	25421	25747	.	-	2	ID=fig|6666666.419445.peg.48;Name=hypothetical protein
+Sp5	FIG	CDS	25805	26074	.	+	2	ID=fig|6666666.419445.peg.49;Name=hypothetical protein
+Sp5	FIG	CDS	26071	26196	.	+	1	ID=fig|6666666.419445.peg.50;Name=Phage protein
+Sp5	FIG	CDS	26257	26388	.	+	1	ID=fig|6666666.419445.peg.51;Name=hypothetical protein
+Sp5	FIG	CDS	26429	26701	.	+	2	ID=fig|6666666.419445.peg.52;Name=hypothetical protein
+Sp5	FIG	CDS	26778	26993	.	+	0	ID=fig|6666666.419445.peg.53;Name=Phage lysis protein S
+Sp5	FIG	CDS	26998	27531	.	+	1	ID=fig|6666666.419445.peg.54;Name=Lysozyme (EC 3.2.1.17) @ Phage lysozyme (EC 3.2.1.17);Ontology_term=KEGG_ENZYME:3.2.1.17,KEGG_ENZYME:3.2.1.17
+Sp5	FIG	CDS	27651	27770	.	+	0	ID=fig|6666666.419445.peg.55;Name=hypothetical protein
+Sp5	FIG	CDS	27802	28371	.	+	1	ID=fig|6666666.419445.peg.56;Name=Phage antirepressor protein
+Sp5	FIG	CDS	28371	28517	.	+	0	ID=fig|6666666.419445.peg.57;Name=hypothetical protein
+Sp5	FIG	CDS	28525	28989	.	+	1	ID=fig|6666666.419445.peg.58;Name=Rz endopeptidase from lambdoid phage
+Sp5	FIG	CDS	29021	29314	.	-	2	ID=fig|6666666.419445.peg.59;Name=Bor protein precursor
+Sp5	FIG	CDS	29554	29667	.	+	1	ID=fig|6666666.419445.peg.60;Name=Phage protein
+Sp5	FIG	CDS	29723	30529	.	+	2	ID=fig|6666666.419445.peg.61;Name=hypothetical protein
+Sp5	FIG	CDS	30510	32216	.	+	0	ID=fig|6666666.419445.peg.62;Name=hypothetical protein
+Sp5	FIG	CDS	32216	34360	.	+	2	ID=fig|6666666.419445.peg.63;Name=hypothetical protein
+Sp5	FIG	CDS	34518	35525	.	+	0	ID=fig|6666666.419445.peg.64;Name=hypothetical protein
+Sp5	FIG	CDS	35549	36763	.	+	2	ID=fig|6666666.419445.peg.65;Name=Phage protein
+Sp5	FIG	CDS	36819	37208	.	+	0	ID=fig|6666666.419445.peg.66;Name=hypothetical protein
+Sp5	FIG	CDS	37258	37719	.	+	1	ID=fig|6666666.419445.peg.67;Name=hypothetical protein
+Sp5	FIG	CDS	37703	38266	.	+	2	ID=fig|6666666.419445.peg.68;Name=hypothetical protein
+Sp5	FIG	CDS	38266	38916	.	+	1	ID=fig|6666666.419445.peg.69;Name=Phage protein
+Sp5	FIG	CDS	38913	40850	.	+	0	ID=fig|6666666.419445.peg.70;Name=Phage tail fiber protein
+Sp5	FIG	CDS	40852	41121	.	+	1	ID=fig|6666666.419445.peg.71;Name=hypothetical protein
+Sp5	FIG	CDS	41207	41449	.	+	2	ID=fig|6666666.419445.peg.72;Name=hypothetical protein
+Sp5	FIG	CDS	41510	41629	.	+	2	ID=fig|6666666.419445.peg.73;Name=FIG00643763: hypothetical protein
+Sp5	FIG	CDS	41666	43369	.	+	2	ID=fig|6666666.419445.peg.74;Name=hypothetical protein
+Sp5	FIG	CDS	43366	44634	.	+	1	ID=fig|6666666.419445.peg.75;Name=Phage tail fiber protein
+Sp5	FIG	CDS	44649	44927	.	+	0	ID=fig|6666666.419445.peg.76;Name=Putative outer membrane protein
+Sp5	FIG	CDS	44933	45550	.	+	2	ID=fig|6666666.419445.peg.77;Name=hypothetical protein
+Sp5	FIG	CDS	45641	46375	.	+	2	ID=fig|6666666.419445.peg.78;Name=Attachment invasion locus protein precursor
+Sp5	FIG	CDS	46805	47206	.	+	2	ID=fig|6666666.419445.peg.79;Name=hypothetical protein
+Sp5	FIG	CDS	47300	47956	.	+	2	ID=fig|6666666.419445.peg.80;Name=hypothetical protein
+Sp5	FIG	CDS	47959	48405	.	+	1	ID=fig|6666666.419445.peg.81;Name=hypothetical protein
+Sp5	FIG	CDS	48415	48666	.	+	1	ID=fig|6666666.419445.peg.82;Name=hypothetical protein
+Sp5	FIG	CDS	48677	49942	.	+	2	ID=fig|6666666.419445.peg.83;Name=hypothetical protein
+Sp5	FIG	CDS	50012	58393	.	+	2	ID=fig|6666666.419445.peg.84;Name=Phage protein
+Sp5	FIG	CDS	58676	58864	.	+	2	ID=fig|6666666.419445.peg.85;Name=Phage protein
+Sp5	FIG	CDS	58944	59288	.	-	0	ID=fig|6666666.419445.peg.86;Name=Protein ygiW precursor
+Sp5	FIG	CDS	59408	59620	.	-	2	ID=fig|6666666.419445.peg.87;Name=RelF inactive antibacterial toxin protein
+Sp5	FIG	CDS	59854	60249	.	-	1	ID=fig|6666666.419445.peg.88;Name=Phage protein
+Sp5	FIG	CDS	60249	60908	.	-	0	ID=fig|6666666.419445.peg.89;Name=hypothetical protein
+Sp5	FIG	CDS	60929	61147	.	-	2	ID=fig|6666666.419445.peg.90;Name=hypothetical protein
+Sp5	FIG	CDS	61134	61418	.	-	0	ID=fig|6666666.419445.peg.91;Name=Phage protein
+Sp5	FIG	CDS	61415	61636	.	-	2	ID=fig|6666666.419445.peg.92;Name=Hypothetical Zinc-finger containing protein
+Sp5	FIG	CDS	61684	62313	.	-	1	ID=fig|6666666.419445.peg.93;Name=Phage antirepressor protein
+Sp5	FIG	tRNA	20754	20829	.	+	.	ID=fig|6666666.419445.rna.1;Name=tRNA-Met-CAT
+Sp5	FIG	tRNA	20754	20829	.	+	.	ID=fig|6666666.419445.rna.1;Name=tRNA-Met-CAT
+Sp5	FIG	tRNA	20754	20829	.	+	.	ID=fig|6666666.419445.rna.1;Name=tRNA-Met-CAT
+Sp5	FIG	tRNA	20839	20915	.	+	.	ID=fig|6666666.419445.rna.2;Name=tRNA-Arg-TCG
+Sp5	FIG	tRNA	20839	20915	.	+	.	ID=fig|6666666.419445.rna.2;Name=tRNA-Arg-TCG
+Sp5	FIG	tRNA	20839	20915	.	+	.	ID=fig|6666666.419445.rna.2;Name=tRNA-Arg-TCG
+Sp5	FIG	tRNA	20929	21005	.	+	.	ID=fig|6666666.419445.rna.3;Name=tRNA-Arg-TCT
+Sp5	FIG	tRNA	20929	21005	.	+	.	ID=fig|6666666.419445.rna.3;Name=tRNA-Arg-TCT
+Sp5	FIG	tRNA	20929	21005	.	+	.	ID=fig|6666666.419445.rna.3;Name=tRNA-Arg-TCT

@@ -1,0 +1,105 @@
+##gff-version 3
+FRIK804-6	FIG	CDS	1	174	.	-	1	ID=fig|6666666.419444.peg.1;Name=NAD(P)H dehydrogenase (quinone)%2C Type IV (EC 1.6.5.2);Ontology_term=KEGG_ENZYME:1.6.5.2
+FRIK804-6	FIG	CDS	171	1481	.	-	0	ID=fig|6666666.419444.peg.2;Name=Lambdoid phage Rac integrase
+FRIK804-6	FIG	CDS	1534	1818	.	-	1	ID=fig|6666666.419444.peg.3;Name=Phage excisionase
+FRIK804-6	FIG	CDS	1904	2203	.	-	2	ID=fig|6666666.419444.peg.4;Name=Phage protein
+FRIK804-6	FIG	CDS	2275	2559	.	-	1	ID=fig|6666666.419444.peg.5;Name=Phage protein
+FRIK804-6	FIG	CDS	2552	3175	.	-	2	ID=fig|6666666.419444.peg.6;Name=Phage protein
+FRIK804-6	FIG	CDS	3179	3466	.	-	2	ID=fig|6666666.419444.peg.7;Name=Phage protein
+FRIK804-6	FIG	CDS	3468	3686	.	-	0	ID=fig|6666666.419444.peg.8;Name=hypothetical protein
+FRIK804-6	FIG	CDS	3688	3903	.	-	1	ID=fig|6666666.419444.peg.9;Name=Phage protein
+FRIK804-6	FIG	CDS	3905	4093	.	-	2	ID=fig|6666666.419444.peg.10;Name=Phage protein
+FRIK804-6	FIG	CDS	4245	5018	.	-	0	ID=fig|6666666.419444.peg.11;Name=hypothetical protein
+FRIK804-6	FIG	CDS	5015	5236	.	-	2	ID=fig|6666666.419444.peg.12;Name=Hypothetical Zinc-finger containing protein
+FRIK804-6	FIG	CDS	5335	5550	.	-	1	ID=fig|6666666.419444.peg.13;Name=Phage protein
+FRIK804-6	FIG	CDS	5627	5818	.	-	2	ID=fig|6666666.419444.peg.14;Name=hypothetical protein
+FRIK804-6	FIG	CDS	5791	5973	.	-	1	ID=fig|6666666.419444.peg.15;Name=hypothetical protein
+FRIK804-6	FIG	CDS	5973	6650	.	-	0	ID=fig|6666666.419444.peg.16;Name=Phage exonuclease (EC 3.1.11.3)%3B Putative phage-encoded enzyme involved in integration-recombination;Ontology_term=KEGG_ENZYME:3.1.11.3
+FRIK804-6	FIG	CDS	6647	7432	.	-	2	ID=fig|6666666.419444.peg.17;Name=Phage integrase family protein
+FRIK804-6	FIG	CDS	7438	7734	.	-	1	ID=fig|6666666.419444.peg.18;Name=IS%2C phage%2C Tn%3B Transposon-related functions
+FRIK804-6	FIG	CDS	7810	7953	.	-	1	ID=fig|6666666.419444.peg.19;Name=Kil protein
+FRIK804-6	FIG	CDS	7922	8086	.	-	2	ID=fig|6666666.419444.peg.20;Name=Phage regulatory protein
+FRIK804-6	FIG	CDS	8159	8527	.	-	2	ID=fig|6666666.419444.peg.21;Name=Single stranded DNA-binding protein%2C phage-associated
+FRIK804-6	FIG	CDS	8678	9148	.	-	2	ID=fig|6666666.419444.peg.22;Name=Phage protein
+FRIK804-6	FIG	CDS	9207	9590	.	-	0	ID=fig|6666666.419444.peg.23;Name=Putative regulatory protein
+FRIK804-6	FIG	CDS	10079	10243	.	-	2	ID=fig|6666666.419444.peg.24;Name=Phage protein
+FRIK804-6	FIG	CDS	10246	11292	.	-	1	ID=fig|6666666.419444.peg.25;Name=serine/threonine protein kinase
+FRIK804-6	FIG	CDS	11286	11747	.	-	0	ID=fig|6666666.419444.peg.26;Name=Phage protein
+FRIK804-6	FIG	CDS	11815	12156	.	-	1	ID=fig|6666666.419444.peg.27;Name=Phage protein
+FRIK804-6	FIG	CDS	12217	12924	.	-	1	ID=fig|6666666.419444.peg.28;Name=Phage repressor
+FRIK804-6	FIG	CDS	13003	13230	.	+	1	ID=fig|6666666.419444.peg.29;Name=Regulatory protein Cro of bacteriophage BP-933W
+FRIK804-6	FIG	CDS	13369	13665	.	+	1	ID=fig|6666666.419444.peg.30;Name=Phage repressor
+FRIK804-6	FIG	CDS	13698	14636	.	+	0	ID=fig|6666666.419444.peg.31;Name=Replication protein O
+FRIK804-6	FIG	CDS	14633	15334	.	+	2	ID=fig|6666666.419444.peg.32;Name=Phage DNA replication protein P
+FRIK804-6	FIG	CDS	15331	15621	.	+	1	ID=fig|6666666.419444.peg.33;Name=Ren protein
+FRIK804-6	FIG	CDS	15692	15970	.	+	2	ID=fig|6666666.419444.peg.34;Name=Phage protein
+FRIK804-6	FIG	CDS	16103	16318	.	+	2	ID=fig|6666666.419444.peg.35;Name=Phage protein
+FRIK804-6	FIG	CDS	16329	16565	.	+	0	ID=fig|6666666.419444.peg.36;Name=hypothetical protein
+FRIK804-6	FIG	CDS	16663	16968	.	+	1	ID=fig|6666666.419444.peg.37;Name=Phage NinB DNA recombination protein (ACLAME 114)
+FRIK804-6	FIG	CDS	16965	17492	.	+	0	ID=fig|6666666.419444.peg.38;Name=Phage-associated DNA N-6-adenine methyltransferase
+FRIK804-6	FIG	CDS	17716	18723	.	+	1	ID=fig|6666666.419444.peg.39;Name=Phage protein
+FRIK804-6	FIG	CDS	18707	18862	.	+	2	ID=fig|6666666.419444.peg.40;Name=Phage protein
+FRIK804-6	FIG	CDS	18875	19597	.	+	2	ID=fig|6666666.419444.peg.41;Name=Phage DNA binding protein Roi
+FRIK804-6	FIG	CDS	19597	20202	.	+	1	ID=fig|6666666.419444.peg.42;Name=Protein NinG
+FRIK804-6	FIG	CDS	20199	20393	.	+	0	ID=fig|6666666.419444.peg.43;Name=Phage NinH (ACLAME 421)
+FRIK804-6	FIG	CDS	20386	20820	.	+	1	ID=fig|6666666.419444.peg.44;Name=IS%2C phage%2C Tn%3B Transposon-related functions
+FRIK804-6	FIG	CDS	21069	21221	.	+	0	ID=fig|6666666.419444.peg.45;Name=hypothetical protein
+FRIK804-6	FIG	CDS	21604	22563	.	+	1	ID=fig|6666666.419444.peg.46;Name=Shiga toxin II subunit A (EC 3.2.2.22);Ontology_term=KEGG_ENZYME:3.2.2.22
+FRIK804-6	FIG	CDS	22575	22844	.	+	0	ID=fig|6666666.419444.peg.47;Name=Shiga toxin II subunit B
+FRIK804-6	FIG	CDS	22897	23016	.	-	1	ID=fig|6666666.419444.peg.48;Name=hypothetical protein
+FRIK804-6	FIG	CDS	23331	25268	.	+	0	ID=fig|6666666.419444.peg.49;Name=hypothetical protein
+FRIK804-6	FIG	CDS	25265	25390	.	+	2	ID=fig|6666666.419444.peg.50;Name=Phage protein
+FRIK804-6	FIG	CDS	25451	25582	.	+	2	ID=fig|6666666.419444.peg.51;Name=hypothetical protein
+FRIK804-6	FIG	CDS	25623	25895	.	+	0	ID=fig|6666666.419444.peg.52;Name=hypothetical protein
+FRIK804-6	FIG	CDS	25972	26187	.	+	1	ID=fig|6666666.419444.peg.53;Name=Phage lysis protein S
+FRIK804-6	FIG	CDS	26192	26725	.	+	2	ID=fig|6666666.419444.peg.54;Name=Lysozyme (EC 3.2.1.17) @ Phage lysozyme (EC 3.2.1.17);Ontology_term=KEGG_ENZYME:3.2.1.17,KEGG_ENZYME:3.2.1.17
+FRIK804-6	FIG	CDS	26845	26964	.	+	1	ID=fig|6666666.419444.peg.55;Name=hypothetical protein
+FRIK804-6	FIG	CDS	26996	27565	.	+	2	ID=fig|6666666.419444.peg.56;Name=Phage antirepressor protein
+FRIK804-6	FIG	CDS	27565	27711	.	+	1	ID=fig|6666666.419444.peg.57;Name=hypothetical protein
+FRIK804-6	FIG	CDS	27719	28183	.	+	2	ID=fig|6666666.419444.peg.58;Name=Rz endopeptidase from lambdoid phage
+FRIK804-6	FIG	CDS	28215	28508	.	-	0	ID=fig|6666666.419444.peg.59;Name=Bor protein precursor
+FRIK804-6	FIG	CDS	28658	28861	.	+	2	ID=fig|6666666.419444.peg.60;Name=Phage protein
+FRIK804-6	FIG	CDS	28917	29723	.	+	0	ID=fig|6666666.419444.peg.61;Name=hypothetical protein
+FRIK804-6	FIG	CDS	29704	31410	.	+	1	ID=fig|6666666.419444.peg.62;Name=hypothetical protein
+FRIK804-6	FIG	CDS	31410	33554	.	+	0	ID=fig|6666666.419444.peg.63;Name=hypothetical protein
+FRIK804-6	FIG	CDS	33712	34719	.	+	1	ID=fig|6666666.419444.peg.64;Name=hypothetical protein
+FRIK804-6	FIG	CDS	34743	35957	.	+	0	ID=fig|6666666.419444.peg.65;Name=Phage protein
+FRIK804-6	FIG	CDS	36013	36402	.	+	1	ID=fig|6666666.419444.peg.66;Name=hypothetical protein
+FRIK804-6	FIG	CDS	36452	36913	.	+	2	ID=fig|6666666.419444.peg.67;Name=hypothetical protein
+FRIK804-6	FIG	CDS	36897	37460	.	+	0	ID=fig|6666666.419444.peg.68;Name=hypothetical protein
+FRIK804-6	FIG	CDS	37460	38110	.	+	2	ID=fig|6666666.419444.peg.69;Name=Phage protein
+FRIK804-6	FIG	CDS	38107	38970	.	+	1	ID=fig|6666666.419444.peg.70;Name=Phage tail fiber protein
+FRIK804-6	FIG	CDS	39084	40043	.	+	0	ID=fig|6666666.419444.peg.71;Name=Phage tail fiber protein
+FRIK804-6	FIG	CDS	40006	40314	.	+	1	ID=fig|6666666.419444.peg.72;Name=hypothetical protein
+FRIK804-6	FIG	CDS	40399	40641	.	+	1	ID=fig|6666666.419444.peg.73;Name=hypothetical protein
+FRIK804-6	FIG	CDS	40708	40821	.	+	1	ID=fig|6666666.419444.peg.74;Name=FIG00643763: hypothetical protein
+FRIK804-6	FIG	CDS	40858	42561	.	+	1	ID=fig|6666666.419444.peg.75;Name=hypothetical protein
+FRIK804-6	FIG	CDS	42558	43826	.	+	0	ID=fig|6666666.419444.peg.76;Name=Phage tail fiber protein
+FRIK804-6	FIG	CDS	43841	44119	.	+	2	ID=fig|6666666.419444.peg.77;Name=Putative outer membrane protein
+FRIK804-6	FIG	CDS	44125	44742	.	+	1	ID=fig|6666666.419444.peg.78;Name=hypothetical protein
+FRIK804-6	FIG	CDS	44833	45567	.	+	1	ID=fig|6666666.419444.peg.79;Name=Attachment invasion locus protein precursor
+FRIK804-6	FIG	CDS	45800	45940	.	+	2	ID=fig|6666666.419444.peg.80;Name=FIG00639116: hypothetical protein
+FRIK804-6	FIG	CDS	45997	46398	.	+	1	ID=fig|6666666.419444.peg.81;Name=hypothetical protein
+FRIK804-6	FIG	CDS	46492	47148	.	+	1	ID=fig|6666666.419444.peg.82;Name=hypothetical protein
+FRIK804-6	FIG	CDS	47151	47597	.	+	0	ID=fig|6666666.419444.peg.83;Name=hypothetical protein
+FRIK804-6	FIG	CDS	47607	47858	.	+	0	ID=fig|6666666.419444.peg.84;Name=hypothetical protein
+FRIK804-6	FIG	CDS	47869	49134	.	+	1	ID=fig|6666666.419444.peg.85;Name=hypothetical protein
+FRIK804-6	FIG	CDS	49204	57585	.	+	1	ID=fig|6666666.419444.peg.86;Name=Phage protein
+FRIK804-6	FIG	CDS	57871	58056	.	+	1	ID=fig|6666666.419444.peg.87;Name=Phage protein
+FRIK804-6	FIG	CDS	58136	58480	.	-	2	ID=fig|6666666.419444.peg.88;Name=Protein ygiW precursor
+FRIK804-6	FIG	CDS	58600	58812	.	-	1	ID=fig|6666666.419444.peg.89;Name=RelF inactive antibacterial toxin protein
+FRIK804-6	FIG	CDS	59046	59441	.	-	0	ID=fig|6666666.419444.peg.90;Name=Phage protein
+FRIK804-6	FIG	CDS	59441	60100	.	-	2	ID=fig|6666666.419444.peg.91;Name=hypothetical protein
+FRIK804-6	FIG	CDS	60121	60339	.	-	1	ID=fig|6666666.419444.peg.92;Name=hypothetical protein
+FRIK804-6	FIG	CDS	60326	60610	.	-	2	ID=fig|6666666.419444.peg.93;Name=Phage protein
+FRIK804-6	FIG	CDS	60607	60828	.	-	1	ID=fig|6666666.419444.peg.94;Name=Hypothetical Zinc-finger containing protein
+FRIK804-6	FIG	CDS	60876	61505	.	-	0	ID=fig|6666666.419444.peg.95;Name=Phage antirepressor protein
+FRIK804-6	FIG	tRNA	21262	21337	.	+	.	ID=fig|6666666.419444.rna.1;Name=tRNA-Met-CAT
+FRIK804-6	FIG	tRNA	21262	21337	.	+	.	ID=fig|6666666.419444.rna.1;Name=tRNA-Met-CAT
+FRIK804-6	FIG	tRNA	21262	21337	.	+	.	ID=fig|6666666.419444.rna.1;Name=tRNA-Met-CAT
+FRIK804-6	FIG	tRNA	21347	21423	.	+	.	ID=fig|6666666.419444.rna.2;Name=tRNA-Arg-TCG
+FRIK804-6	FIG	tRNA	21347	21423	.	+	.	ID=fig|6666666.419444.rna.2;Name=tRNA-Arg-TCG
+FRIK804-6	FIG	tRNA	21347	21423	.	+	.	ID=fig|6666666.419444.rna.2;Name=tRNA-Arg-TCG
+FRIK804-6	FIG	tRNA	21437	21513	.	+	.	ID=fig|6666666.419444.rna.3;Name=tRNA-Arg-TCT
+FRIK804-6	FIG	tRNA	21437	21513	.	+	.	ID=fig|6666666.419444.rna.3;Name=tRNA-Arg-TCT
+FRIK804-6	FIG	tRNA	21437	21513	.	+	.	ID=fig|6666666.419444.rna.3;Name=tRNA-Arg-TCT

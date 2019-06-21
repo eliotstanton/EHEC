@@ -1,0 +1,82 @@
+##gff-version 3
+FRIK804-10	FIG	CDS	1	438	.	-	1	ID=fig|6666666.422923.peg.1;Name=Lambdoid phage Rac integrase
+FRIK804-10	FIG	CDS	435	1679	.	-	0	ID=fig|6666666.422923.peg.2;Name=putative exonuclease
+FRIK804-10	FIG	CDS	1772	1960	.	-	2	ID=fig|6666666.422923.peg.3;Name=Uncharacterized protein%2C YdfD family
+FRIK804-10	FIG	CDS	1957	2145	.	-	1	ID=fig|6666666.422923.peg.4;Name=Cell division inhibition protein DicB
+FRIK804-10	FIG	CDS	2256	2411	.	+	0	ID=fig|6666666.422923.peg.5;Name=FIG00639961: hypothetical protein
+FRIK804-10	FIG	CDS	2710	2919	.	+	1	ID=fig|6666666.422923.peg.6;Name=hypothetical protein
+FRIK804-10	FIG	CDS	2920	3558	.	-	1	ID=fig|6666666.422923.peg.7;Name=hypothetical protein
+FRIK804-10	FIG	CDS	3570	3722	.	-	0	ID=fig|6666666.422923.peg.8;Name=Uncharacterized protein%2C YdaF family
+FRIK804-10	FIG	CDS	4015	4614	.	-	1	ID=fig|6666666.422923.peg.9;Name=putative repressor protein
+FRIK804-10	FIG	CDS	4745	4987	.	+	2	ID=fig|6666666.422923.peg.10;Name=Putative regulatory protein
+FRIK804-10	FIG	CDS	4971	5396	.	+	0	ID=fig|6666666.422923.peg.11;Name=Uncharacterized phage-associated protein%2C YdaT family
+FRIK804-10	FIG	CDS	5465	6508	.	+	2	ID=fig|6666666.422923.peg.12;Name=Primosomal protein I
+FRIK804-10	FIG	CDS	6501	6962	.	+	0	ID=fig|6666666.422923.peg.13;Name=putative replication protein
+FRIK804-10	FIG	CDS	6996	7712	.	+	0	ID=fig|6666666.422923.peg.14;Name=Putative uncharacterized phage-associated protein%2C YdaW family
+FRIK804-10	FIG	CDS	7772	8026	.	+	2	ID=fig|6666666.422923.peg.15;Name=hypothetical protein
+FRIK804-10	FIG	CDS	8023	8250	.	+	1	ID=fig|6666666.422923.peg.16;Name=hypothetical protein
+FRIK804-10	FIG	CDS	8243	8554	.	+	2	ID=fig|6666666.422923.peg.17;Name=hypothetical protein
+FRIK804-10	FIG	CDS	8682	8900	.	+	0	ID=fig|6666666.422923.peg.18;Name=hypothetical protein
+FRIK804-10	FIG	CDS	8902	9459	.	+	1	ID=fig|6666666.422923.peg.19;Name=hypothetical protein
+FRIK804-10	FIG	CDS	9693	9905	.	+	0	ID=fig|6666666.422923.peg.20;Name=RelF inactive antibacterial toxin protein
+FRIK804-10	FIG	CDS	10025	10369	.	+	2	ID=fig|6666666.422923.peg.21;Name=Protein ygiW precursor
+FRIK804-10	FIG	CDS	10491	10763	.	+	0	ID=fig|6666666.422923.peg.22;Name=hypothetical protein
+FRIK804-10	FIG	CDS	10765	11814	.	+	1	ID=fig|6666666.422923.peg.23;Name=Uncharacterized protein%2C YdfU family
+FRIK804-10	FIG	CDS	11827	12132	.	+	1	ID=fig|6666666.422923.peg.24;Name=Holliday junction resolvase / Crossover junction endodeoxyribonuclease rusA (EC 3.1.22.-);Ontology_term=KEGG_ENZYME:3.1.22.-
+FRIK804-10	FIG	CDS	12195	12749	.	+	0	ID=fig|6666666.422923.peg.25;Name=Phage antitermination protein
+FRIK804-10	FIG	CDS	12739	12858	.	+	1	ID=fig|6666666.422923.peg.26;Name=hypothetical protein
+FRIK804-10	FIG	CDS	12851	13171	.	+	2	ID=fig|6666666.422923.peg.27;Name=hypothetical protein
+FRIK804-10	FIG	CDS	13433	14020	.	+	2	ID=fig|6666666.422923.peg.28;Name=Transcriptional regulator
+FRIK804-10	FIG	CDS	14471	14902	.	+	2	ID=fig|6666666.422923.peg.29;Name=hypothetical protein
+FRIK804-10	FIG	CDS	14899	15066	.	+	1	ID=fig|6666666.422923.peg.30;Name=hypothetical protein
+FRIK804-10	FIG	CDS	15204	15326	.	+	0	ID=fig|6666666.422923.peg.31;Name=hypothetical protein
+FRIK804-10	FIG	CDS	15380	17230	.	+	2	ID=fig|6666666.422923.peg.32;Name=hypothetical protein
+FRIK804-10	FIG	CDS	17328	17444	.	-	0	ID=fig|6666666.422923.peg.33;Name=hypothetical protein
+FRIK804-10	FIG	CDS	17509	17670	.	-	1	ID=fig|6666666.422923.peg.34;Name=hypothetical protein
+FRIK804-10	FIG	CDS	17678	17884	.	+	2	ID=fig|6666666.422923.peg.35;Name=Phage lysis protein S
+FRIK804-10	FIG	CDS	17889	18233	.	+	0	ID=fig|6666666.422923.peg.36;Name=Uncharacterized protein%2C YdfR family
+FRIK804-10	FIG	CDS	18284	18484	.	+	2	ID=fig|6666666.422923.peg.37;Name=Lysozyme (EC 3.2.1.17) @ Phage lysozyme (EC 3.2.1.17);Ontology_term=KEGG_ENZYME:3.2.1.17,KEGG_ENZYME:3.2.1.17
+FRIK804-10	FIG	CDS	18481	18816	.	+	1	ID=fig|6666666.422923.peg.38;Name=Lysozyme (EC 3.2.1.17) @ Phage lysozyme (EC 3.2.1.17);Ontology_term=KEGG_ENZYME:3.2.1.17,KEGG_ENZYME:3.2.1.17
+FRIK804-10	FIG	CDS	18937	19056	.	+	1	ID=fig|6666666.422923.peg.39;Name=hypothetical protein
+FRIK804-10	FIG	CDS	19088	19657	.	+	2	ID=fig|6666666.422923.peg.40;Name=Phage antirepressor protein
+FRIK804-10	FIG	CDS	19657	19803	.	+	1	ID=fig|6666666.422923.peg.41;Name=FIG00641645: hypothetical protein
+FRIK804-10	FIG	CDS	19815	20273	.	+	0	ID=fig|6666666.422923.peg.42;Name=Rz endopeptidase from lambdoid phage
+FRIK804-10	FIG	CDS	20356	20496	.	+	1	ID=fig|6666666.422923.peg.43;Name=hypothetical protein
+FRIK804-10	FIG	CDS	20522	20689	.	+	2	ID=fig|6666666.422923.peg.44;Name=hypothetical protein
+FRIK804-10	FIG	CDS	20737	21051	.	+	1	ID=fig|6666666.422923.peg.45;Name=Transcriptional regulator
+FRIK804-10	FIG	CDS	21133	21357	.	-	1	ID=fig|6666666.422923.peg.46;Name=hypothetical protein
+FRIK804-10	FIG	CDS	21373	21630	.	-	1	ID=fig|6666666.422923.peg.47;Name=hypothetical protein
+FRIK804-10	FIG	CDS	21744	22289	.	+	0	ID=fig|6666666.422923.peg.48;Name=Phage DNA packaging protein @ Prophage DNA-packaging protein%2C NohA/NohB type
+FRIK804-10	FIG	CDS	22264	24189	.	+	1	ID=fig|6666666.422923.peg.49;Name=Phage terminase%2C large subunit
+FRIK804-10	FIG	CDS	24186	24392	.	+	0	ID=fig|6666666.422923.peg.50;Name=DNA retention and portal binding (lambda gpW-like)
+FRIK804-10	FIG	CDS	24389	25990	.	+	2	ID=fig|6666666.422923.peg.51;Name=Phage portal protein
+FRIK804-10	FIG	CDS	25971	27290	.	+	0	ID=fig|6666666.422923.peg.52;Name=Head-tail preconnector protein GP5
+FRIK804-10	FIG	CDS	27300	27632	.	+	0	ID=fig|6666666.422923.peg.53;Name=major capsid protein
+FRIK804-10	FIG	CDS	27688	28713	.	+	1	ID=fig|6666666.422923.peg.54;Name=Phage major capsid protein
+FRIK804-10	FIG	CDS	28755	29153	.	+	0	ID=fig|6666666.422923.peg.55;Name=Phage DNA-packaging protein
+FRIK804-10	FIG	CDS	29165	29518	.	+	2	ID=fig|6666666.422923.peg.56;Name=Phage capsid and scaffold
+FRIK804-10	FIG	CDS	29533	30066	.	+	1	ID=fig|6666666.422923.peg.57;Name=putative minor tail protein
+FRIK804-10	FIG	CDS	30063	30458	.	+	0	ID=fig|6666666.422923.peg.58;Name=Phage minor tail protein
+FRIK804-10	FIG	CDS	30466	31218	.	+	1	ID=fig|6666666.422923.peg.59;Name=Putative tail component of prophage CP-933K
+FRIK804-10	FIG	CDS	31232	31654	.	+	2	ID=fig|6666666.422923.peg.60;Name=Phage minor tail protein
+FRIK804-10	FIG	CDS	31681	32094	.	+	1	ID=fig|6666666.422923.peg.61;Name=Phage minor tail protein
+FRIK804-10	FIG	CDS	32075	34687	.	+	2	ID=fig|6666666.422923.peg.62;Name=Phage tail length tape-measure protein 1
+FRIK804-10	FIG	CDS	34684	35013	.	+	1	ID=fig|6666666.422923.peg.63;Name=Phage minor tail protein
+FRIK804-10	FIG	CDS	35013	35711	.	+	0	ID=fig|6666666.422923.peg.64;Name=Phage minor tail protein
+FRIK804-10	FIG	CDS	35722	36465	.	+	1	ID=fig|6666666.422923.peg.65;Name=Phage tail assembly protein
+FRIK804-10	FIG	CDS	36462	37040	.	+	0	ID=fig|6666666.422923.peg.66;Name=Phage tail assembly protein I
+FRIK804-10	FIG	CDS	37086	37205	.	+	0	ID=fig|6666666.422923.peg.67;Name=hypothetical protein
+FRIK804-10	FIG	CDS	37281	40760	.	+	0	ID=fig|6666666.422923.peg.68;Name=Phage tail fiber protein
+FRIK804-10	FIG	CDS	40828	41427	.	+	1	ID=fig|6666666.422923.peg.69;Name=Attachment invasion locus protein precursor
+FRIK804-10	FIG	CDS	41492	42715	.	+	2	ID=fig|6666666.422923.peg.70;Name=Phage tail fiber protein
+FRIK804-10	FIG	CDS	42678	42986	.	+	0	ID=fig|6666666.422923.peg.71;Name=hypothetical protein
+FRIK804-10	FIG	CDS	43100	43675	.	+	2	ID=fig|6666666.422923.peg.72;Name=hypothetical protein
+FRIK804-10	FIG	CDS	43748	44377	.	+	2	ID=fig|6666666.422923.peg.73;Name=hypothetical protein
+FRIK804-10	FIG	CDS	44459	45100	.	+	2	ID=fig|6666666.422923.peg.74;Name=hypothetical protein
+FRIK804-10	FIG	CDS	45262	45576	.	-	1	ID=fig|6666666.422923.peg.75;Name=hypothetical protein
+FRIK804-10	FIG	tRNA	14049	14124	.	+	.	ID=fig|6666666.422923.rna.1;Name=tRNA-Met-CAT
+FRIK804-10	FIG	tRNA	14049	14124	.	+	.	ID=fig|6666666.422923.rna.1;Name=tRNA-Met-CAT
+FRIK804-10	FIG	tRNA	14049	14124	.	+	.	ID=fig|6666666.422923.rna.1;Name=tRNA-Met-CAT
+FRIK804-10	FIG	tRNA	14225	14301	.	+	.	ID=fig|6666666.422923.rna.2;Name=tRNA-Arg-TCT
+FRIK804-10	FIG	tRNA	14225	14301	.	+	.	ID=fig|6666666.422923.rna.2;Name=tRNA-Arg-TCT
+FRIK804-10	FIG	tRNA	14225	14301	.	+	.	ID=fig|6666666.422923.rna.2;Name=tRNA-Arg-TCT

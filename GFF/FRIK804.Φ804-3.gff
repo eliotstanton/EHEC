@@ -1,0 +1,59 @@
+##gff-version 3
+FRIK804-3	FIG	CDS	277	990	.	-	1	ID=fig|6666666.419439.peg.1;Name=hypothetical protein
+FRIK804-3	FIG	CDS	1029	1277	.	+	0	ID=fig|6666666.419439.peg.2;Name=Putative DNA-binding protein
+FRIK804-3	FIG	CDS	1279	3369	.	+	1	ID=fig|6666666.419439.peg.3;Name=Phage transposase
+FRIK804-3	FIG	CDS	3441	4373	.	+	0	ID=fig|6666666.419439.peg.4;Name=Replication initiation ATPase%3B bacteriophage DNA transposition B protein
+FRIK804-3	FIG	CDS	4376	4597	.	+	2	ID=fig|6666666.419439.peg.5;Name=hypothetical protein
+FRIK804-3	FIG	CDS	4610	4864	.	+	2	ID=fig|6666666.419439.peg.6;Name=hypothetical protein
+FRIK804-3	FIG	CDS	4866	5147	.	+	0	ID=fig|6666666.419439.peg.7;Name=hypothetical protein
+FRIK804-3	FIG	CDS	5144	5416	.	+	2	ID=fig|6666666.419439.peg.8;Name=hypothetical protein
+FRIK804-3	FIG	CDS	5421	5714	.	+	0	ID=fig|6666666.419439.peg.9;Name=hypothetical protein
+FRIK804-3	FIG	CDS	5726	6256	.	+	2	ID=fig|6666666.419439.peg.10;Name=putative host-nuclease inhibitor protein
+FRIK804-3	FIG	CDS	6354	6896	.	+	0	ID=fig|6666666.419439.peg.11;Name=hypothetical protein
+FRIK804-3	FIG	CDS	6900	7433	.	+	0	ID=fig|6666666.419439.peg.12;Name=similar to Gp11 [Bacteriophage Mu] gi|6010385|gb|AAF01088.1|AF083977_7
+FRIK804-3	FIG	CDS	7433	7948	.	+	2	ID=fig|6666666.419439.peg.13;Name=hypothetical protein
+FRIK804-3	FIG	CDS	7952	8503	.	+	2	ID=fig|6666666.419439.peg.14;Name=hypothetical protein
+FRIK804-3	FIG	CDS	8500	8811	.	+	1	ID=fig|6666666.419439.peg.15;Name=hypothetical protein
+FRIK804-3	FIG	CDS	8808	9176	.	+	0	ID=fig|6666666.419439.peg.16;Name=hypothetical protein
+FRIK804-3	FIG	CDS	9189	9524	.	+	0	ID=fig|6666666.419439.peg.17;Name=hypothetical protein
+FRIK804-3	FIG	CDS	9517	9714	.	+	1	ID=fig|6666666.419439.peg.18;Name=hypothetical protein
+FRIK804-3	FIG	CDS	9704	10000	.	+	2	ID=fig|6666666.419439.peg.19;Name=hypothetical protein
+FRIK804-3	FIG	CDS	9997	10506	.	+	1	ID=fig|6666666.419439.peg.20;Name=FIG00638221: hypothetical protein
+FRIK804-3	FIG	CDS	10576	11001	.	+	1	ID=fig|6666666.419439.peg.21;Name=Putative transcription regulator
+FRIK804-3	FIG	CDS	11073	11573	.	+	0	ID=fig|6666666.419439.peg.22;Name=Lysozyme (EC 3.2.1.17) @ Phage lysozyme (EC 3.2.1.17);Ontology_term=KEGG_ENZYME:3.2.1.17,KEGG_ENZYME:3.2.1.17
+FRIK804-3	FIG	CDS	11638	12036	.	+	1	ID=fig|6666666.419439.peg.23;Name=hypothetical protein
+FRIK804-3	FIG	CDS	12020	12238	.	+	2	ID=fig|6666666.419439.peg.24;Name=Phage lysin
+FRIK804-3	FIG	CDS	12249	12476	.	+	0	ID=fig|6666666.419439.peg.25;Name=C4-type zinc finger protein (TraR family)
+FRIK804-3	FIG	CDS	12457	12765	.	+	1	ID=fig|6666666.419439.peg.26;Name=hypothetical protein
+FRIK804-3	FIG	CDS	12762	13052	.	+	0	ID=fig|6666666.419439.peg.27;Name=Mu-like phage gp26
+FRIK804-3	FIG	CDS	13055	13636	.	+	2	ID=fig|6666666.419439.peg.28;Name=hypothetical protein
+FRIK804-3	FIG	CDS	13636	15300	.	+	1	ID=fig|6666666.419439.peg.29;Name=Mu-like prophage FluMu protein gp28
+FRIK804-3	FIG	CDS	15300	16889	.	+	0	ID=fig|6666666.419439.peg.30;Name=Mu-like prophage FluMu protein gp29
+FRIK804-3	FIG	CDS	16873	18204	.	+	1	ID=fig|6666666.419439.peg.31;Name=Phage (Mu-like) virion morphogenesis protein
+FRIK804-3	FIG	CDS	18326	18799	.	+	2	ID=fig|6666666.419439.peg.32;Name=Putative virion morphogenesis protein
+FRIK804-3	FIG	CDS	18976	20100	.	+	1	ID=fig|6666666.419439.peg.33;Name=Mu-like prophage FluMu I protein
+FRIK804-3	FIG	CDS	20100	21047	.	+	0	ID=fig|6666666.419439.peg.34;Name=Phage major capsid protein
+FRIK804-3	FIG	CDS	21091	21489	.	+	1	ID=fig|6666666.419439.peg.35;Name=hypothetical protein
+FRIK804-3	FIG	CDS	21486	21905	.	+	0	ID=fig|6666666.419439.peg.36;Name=Mu-like prophage protein GP36
+FRIK804-3	FIG	CDS	21902	22462	.	+	2	ID=fig|6666666.419439.peg.37;Name=Mu-like prophage FluMu protein gp37
+FRIK804-3	FIG	CDS	22463	22708	.	+	2	ID=fig|6666666.419439.peg.38;Name=Mu-like prophage FluMu protein GP38
+FRIK804-3	FIG	CDS	22705	24207	.	+	1	ID=fig|6666666.419439.peg.39;Name=Bacteriophage tail sheath protein
+FRIK804-3	FIG	CDS	24216	24581	.	+	0	ID=fig|6666666.419439.peg.40;Name=Phage tail tube protein
+FRIK804-3	FIG	CDS	24596	25072	.	+	2	ID=fig|6666666.419439.peg.41;Name=Mu-like prophage FluMu protein gp41
+FRIK804-3	FIG	CDS	25199	27274	.	+	2	ID=fig|6666666.419439.peg.42;Name=Mu-like prophage FluMu protein gp42
+FRIK804-3	FIG	CDS	27261	28610	.	+	0	ID=fig|6666666.419439.peg.43;Name=Phage tail/DNA circulation protein
+FRIK804-3	FIG	CDS	28594	29718	.	+	1	ID=fig|6666666.419439.peg.44;Name=FIG003269: Prophage tail protein
+FRIK804-3	FIG	CDS	29708	30322	.	+	2	ID=fig|6666666.419439.peg.45;Name=Prophage baseplate assembly protein V
+FRIK804-3	FIG	CDS	30315	30752	.	+	0	ID=fig|6666666.419439.peg.46;Name=Bacteriophage protein GP46
+FRIK804-3	FIG	CDS	30752	31834	.	+	2	ID=fig|6666666.419439.peg.47;Name=Phage FluMu protein gp47
+FRIK804-3	FIG	CDS	31825	32385	.	+	1	ID=fig|6666666.419439.peg.48;Name=FIG121501: Prophage tail protein
+FRIK804-3	FIG	CDS	32385	33296	.	+	0	ID=fig|6666666.419439.peg.49;Name=Prophage tail fiber protein
+FRIK804-3	FIG	CDS	33331	33963	.	-	1	ID=fig|6666666.419439.peg.50;Name=Phage tail fiber assembly protein
+FRIK804-3	FIG	CDS	33932	34147	.	-	2	ID=fig|6666666.419439.peg.51;Name=Prophage tail fiber protein
+FRIK804-3	FIG	CDS	34357	34917	.	+	1	ID=fig|6666666.419439.peg.52;Name=Phage DNA invertase
+FRIK804-3	FIG	CDS	35017	37056	.	+	1	ID=fig|6666666.419439.peg.53;Name=hypothetical protein
+FRIK804-3	FIG	CDS	37203	37385	.	+	0	ID=fig|6666666.419439.peg.54;Name=hypothetical protein
+FRIK804-3	FIG	CDS	37421	37666	.	+	2	ID=fig|6666666.419439.peg.55;Name=hypothetical protein
+FRIK804-3	FIG	CDS	37705	38169	.	-	1	ID=fig|6666666.419439.peg.56;Name=hypothetical protein
+FRIK804-3	FIG	CDS	38387	38623	.	-	2	ID=fig|6666666.419439.peg.57;Name=hypothetical protein
+FRIK804-3	FIG	CDS	38660	39175	.	+	2	ID=fig|6666666.419439.peg.58;Name=Phage Mu Mom-like protein
