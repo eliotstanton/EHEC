@@ -4,7 +4,9 @@ These scripts are associated with publications:
 * Chronological set of E. coli O157:H7 bovine strains establishes a role for repeat sequences and mobile genetic elements in genome diversification (https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06943-x)
 * The impact of mobile genetic elements as drivers of genome diversification in bovine Escherichia coli O157:H7 (https://www.proquest.com/openview/75255941af6de228d499db701e4b5018/1?pq-origsite=gscholar&cbl=2026366&diss=y)
 
-Bash scripts for generating information and figures in publications are located in the open (detailed at end). FASTA, FASTQ, GenBank, GFF, XML (omptical maps), and genome feature files needed to run these are all included in separate directories. Main scripts are located in /scripts directory.
+Bash scripts for generating information and figures in publications are located in the open (detailed at end). FASTA, FASTQ, GenBank, GFF, XML (omptical maps), and genome feature files needed to run these are all included in separate directories. Main scripts are located in /scripts directory. The two major scripts used are HomologyAnalyzer.pl and Synteny.pl.
+* HomologyAnalyzer.pl caluclates the extent of repeats in a given FASTA sequence and classifies overlap with different classes of chromosomal MGE based upon user-provided genomic coordinates.
+* Synteny.pl functions to visualize alignment calculated by progressiveMauve using Circos. Different classes of MGE are highlighted based upon user-provided chromosomal coordinates.
 
 Examples of the figures created with these scripts:  
 <img src="https://github.com/eliotstanton/EHEC/blob/master/Fig1.large.png" width="480">  
@@ -28,7 +30,7 @@ Output of AlignReads.pl, GrabORFs.pl, and WriteORFs.pl (additional editing using
 # Main scripts
 
 ## HomologyAnalyzer.pl
-  Master script used for caluclating and visualising homology within a circular bacterial genome  
+  Master script used for caluclating and visualising homology within a circular bacterial genome.  
 
   HomologyAnalyzer.pl [FASTA] [Features]  
     -d Prohibit direct links from being drawn  
@@ -45,7 +47,7 @@ Output of AlignReads.pl, GrabORFs.pl, and WriteORFs.pl (additional editing using
 
 
 ## Synteny.pl
-  Calculating and visualising related strains using Mauve and Circos  
+  Visualising chromosomal alignment of related strains using Mauve and Circos.  
   
   Synteny.pl [OPTIONS] [FASTA] [Features]  
     -m Minimum length for region alignment (default: 100)  
