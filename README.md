@@ -6,19 +6,22 @@ These scripts are associated with publications:
 
 Bash scripts for generating information and figures in publications are located in the open (detailed at end). FASTA, FASTQ, GenBank, GFF, XML (omptical maps), and genome feature files needed to run these are all included in separate directories. Main scripts are located in /scripts directory.
 
-Examples of the figures created with these scripts:
+Examples of the figures created with these scripts:  
 <img src="https://github.com/eliotstanton/EHEC/blob/master/Fig1.large.png" width="480">  
-Output of Synteny.pl (additional editing using Adobe Illustrator)  
-
+Output of Synteny.pl (additional editing using Adobe Illustrator). Comparison of FRIK804 and Sakai chromosomes. Alignment of the FRIK804 (outer) and Sakai (inner) chromosome found disruption of synteny by large-scale structural alterations.  
+  
+  
 <img src="https://github.com/eliotstanton/EHEC/blob/master/Fig6.FRIK804.png" width="480">
 <img src="https://github.com/eliotstanton/EHEC/blob/master/Fig6.MG1655.png" width="480">  
-Outputs of HomologyAnalyzer.pl (additional editing using Adobe Illustrator)  
-
+Outputs of HomologyAnalyzer.pl (additional editing using Adobe Illustrator). Locations of direct and inverted contiguous repeats ≥75 bp in length in the chromosomes of FRIK804 and E. coli strain MG1655.  
+  
+  
 <img src="https://github.com/eliotstanton/EHEC/blob/master/Fig3A.small.png" width="480">  
-Output of Optical.pl (additional editing using Adobe Illustrator)  
-
-<img src="https://github.com/eliotstanton/EHEC/blob/master/Fig4.large.png" width="960">  
-Output of AlignReads.pl, GrabORFs.pl, and WriteORFs.pl (additional editing using Adobe Illustrator)  
+Output of Optical.pl (additional editing using Adobe Illustrator). NcoI restriction site maps of the chromosomes from FRIK804 (outer), FRIK1275 (middle), and FRIK1625 (inner).  
+  
+  
+<img src="https://github.com/eliotstanton/EHEC/blob/master/Fig4.small.png" width="960">  
+Output of AlignReads.pl, GrabORFs.pl, and WriteORFs.pl (additional editing using Adobe Illustrator). Detection of the boundaries of inter-prophage deletion (indel-4) in Φ804–9/Φ804–10 present in FRIK1275 and FRIK1625.  
 
 --------------------------------------------------------------------------------
 
