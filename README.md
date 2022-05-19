@@ -1,4 +1,4 @@
-# EHEC genomic synteny repeat analysis and visualization
+# EHEC genome synteny and repeat sequence analysis/visualization
 
 These scripts are associated with publications:
 * Chronological set of E. coli O157:H7 bovine strains establishes a role for repeat sequences and mobile genetic elements in genome diversification (https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06943-x)
